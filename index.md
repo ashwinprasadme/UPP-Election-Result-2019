@@ -1,13 +1,14 @@
 # Election Result UPP 2019 - Test 
+
 ---
 # TOTAL VOTES - 190,412 
----
 ## (Collected from 40/40 Constituencies) 
----
 
 # Results by Constituency 
 
-### Last Updated - 00:43 | 30-04-2019 
+
+---
+### Last Updated - 00:47 | 30-04-2019 
 
 
 |  Constituency   |       Candidate       |  Votes   |
