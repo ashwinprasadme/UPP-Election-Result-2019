@@ -2,9 +2,9 @@
 # TOTAL VOTES - 190,412 
 ## (Collected from 40/40 Constituencies) 
 
- # Results by Constituency 
+# Results by Constituency 
 
-### Last Updated - 00:41 | 2019-04-30 
+### Last Updated - 00:42 | 30-04-2019 
 
 
 |  Constituency   |       Candidate       |  Votes   |
