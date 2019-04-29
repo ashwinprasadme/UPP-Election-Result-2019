@@ -4,7 +4,7 @@
 
  # Results by Constituency 
 
-### Last Updated - 2019-04-30 00:36:23.944578+05:30 
+### Last Updated - 2019-04-30 00:36:53.254044+05:30 
 
 
 |  Constituency   |       Candidate       |  Votes   |
