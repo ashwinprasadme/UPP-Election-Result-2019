@@ -107,7 +107,10 @@ while True:
         file = open("index.md","w") 
         
         file.write("# Election Result UPP 2019 - Test \n") 
-        file.write("# TOTAL VOTES - {0:,} \n## (Collected from {1}/{2} Constituencies) \n\n# Results by Constituency \n\n".format(_totalVotes, _totalConstituencyCollected, len(_constituencies))) 
+        file.write("\n---\n")         
+        file.write("# TOTAL VOTES - {0:,} \n## (Collected from {1}/{2} Constituencies) \n\n".format(_totalVotes, _totalConstituencyCollected, len(_constituencies))) 
+        file.write("\n---\n")         
+        file.write("# Results by Constituency \n\n")                 
         file.write("### Last Updated - {0} \n\n\n".format(india_now.strftime("%H:%M | %d-%m-%Y"))) 
 
         file.write(writer.dumps()) 
