@@ -5,9 +5,17 @@ from bs4 import BeautifulSoup
 import csv
 from pytablewriter import MarkdownTableWriter
 from pytablewriter.style import Style
+import git, os
+import time
+
+from datetime import datetime
+import pytz
+tz = pytz.timezone('Asia/Kolkata')
+
+repo_dir = "/home/ashwin/Desktop/UPP-Election-Result-2019"
+file_name = os.path.join(repo_dir, 'index.md')
 
 # print(writer.dumps())
-
 def readStateInfo(filepath):
     _info = []
     with open(filepath, 'r') as csvFile:
@@ -21,7 +29,8 @@ def readStateInfo(filepath):
 
 def getResultConstituency(constituency, party, state="S16", candidate=None):
     # http://eciresults.nic.in/ConstituencywiseS1610.htm?ac=10
-    resultUrl = "http://eciresults.nic.in/Constituencywise{0}{1}.htm?ac={1}"
+    # NEW - https://results.eci.gov.in/ConstituencywiseS1610.htm?ac=10
+    resultUrl = "https://results.eci.gov.in/Constituencywise{0}{1}.htm?ac={1}"
     # print(resultUrl.format(state, constituency))
     response = requests.get(resultUrl.format(state, constituency))
 
@@ -57,45 +66,63 @@ def getResultConstituency(constituency, party, state="S16", candidate=None):
         return _resultDict
 
 
-STATE = "mizoram"
-PARTY = "Indian National Congress"
+while True:
 
-_constituencies = readStateInfo("states/{0}.csv".format(STATE))
+    STATE = "mizoram"
+    PARTY = "Indian National Congress"
 
-_totalVotes = 0
-_totalConstituencyCollected = 0
-_resultList = []
+    _constituencies = readStateInfo("states/{0}.csv".format(STATE))
 
-for _constituency in _constituencies:
-    _result = getResultConstituency(constituency=_constituency["constituencyNumber"], party=PARTY)
-    if _result:
-        _totalConstituencyCollected += 1
-        _totalVotes =  _totalVotes + _result["votes"]
-        _resultList.append([_constituency["constituencyName"], _result["candidate"], _result["votes"]])
-        print("Constituency: {0} \t Candidate: {1} \t Votes: {2} \n".format(_constituency["constituencyName"], _result["candidate"], _result["votes"]))
+    _totalVotes = 0
+    _totalConstituencyCollected = 0
+    _resultList = []
+
+    for _constituency in _constituencies:
+        _result = getResultConstituency(constituency=_constituency["constituencyNumber"], party=PARTY)
+        if _result:
+            _totalConstituencyCollected += 1
+            _totalVotes =  _totalVotes + _result["votes"]
+            _resultList.append([_constituency["constituencyName"], _result["candidate"], _result["votes"]])
+            print("Constituency: {0} \t\t\t Candidate: {1} \t\t\t Votes: {2} \n".format(_constituency["constituencyName"], _result["candidate"], _result["votes"]))
+            
+
+    print("\n\n TOTAL VOTES - {0:,} \n Collected from {1}/{2} Constituencies".format(_totalVotes, _totalConstituencyCollected, len(_constituencies)))
+
+    _resultList.sort(key = lambda x: x[2], reverse=True) 
+
+    writer = MarkdownTableWriter()
+    writer.headers = ["Constituency", "Candidate", "Votes"]
+    writer.value_matrix = _resultList
+
+    writer.styles = [
+        Style(align="center"),
+        Style(align="center"),
+        Style(font_weight="bold", align="right", thousand_separator=","),
+    ]
+
+    writer.write_table()
+
+    try:
+        india_now = datetime.now(tz)
+        file = open("index.md","w") 
         
+        file.write("# Election Result UPP 2019 - Test \n") 
+        file.write("# TOTAL VOTES - {0:,} \n## (Collected from {1}/{2} Constituencies) \n\n# Results by Constituency \n\n".format(_totalVotes, _totalConstituencyCollected, len(_constituencies))) 
+        file.write("### Last Updated - {0} \n\n\n".format(india_now.strftime("%H:%M | %d-%m-%Y"))) 
 
-print("\n\n TOTAL VOTES - {0:,} \n Collected from {1}/{2} Constituencies".format(_totalVotes, _totalConstituencyCollected, len(_constituencies)))
+        file.write(writer.dumps()) 
+        
+        file.close() 
 
-_resultList.sort(key = lambda x: x[2], reverse=True) 
+        r = git.Repo(repo_dir)
+        r.index.add([file_name])
+        r.index.commit("Last Updated - {0}".format(india_now))
+        r.remotes.origin.push()
+        print("Last Updated - {0}".format(india_now.strftime("%H:%M | %d-%m-%Y")))
+        time.sleep(120)
+    except Exception as e:
+        print(e)
+        time.sleep(5)
+    
 
-writer = MarkdownTableWriter()
-writer.headers = ["Constituency", "Candidate", "Votes"]
-writer.value_matrix = _resultList
 
-writer.styles = [
-    Style(align="center"),
-    Style(align="center"),
-    Style(font_weight="bold", align="right", thousand_separator=","),
-]
-
-writer.write_table()
-
-file = open("index.md","w") 
- 
-file.write("# Election Result UPP 2019 - Test \n") 
-file.write("# TOTAL VOTES - {0:,} \n## (Collected from {1}/{2} Constituencies) \n # Results by Constituency \n\n\n".format(_totalVotes, _totalConstituencyCollected, len(_constituencies))) 
-
-file.write(writer.dumps()) 
- 
-file.close() 
