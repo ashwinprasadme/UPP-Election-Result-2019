@@ -2,9 +2,9 @@
 # TOTAL VOTES - 190,412 
 ## (Collected from 40/40 Constituencies) 
  # Results by Constituency 
+Last Updated - 2019-04-30 00:30:56.240721+05:30 
 
 
-Last Updated - 2019-04-30 00:28:45.383429+05:30 
 |  Constituency   |       Candidate       |  Votes   |
 |:---------------:|:---------------------:|---------:|
 | Lawngtlai West  |   C. NGUNLIANCHUNGA   |**10,678**|
