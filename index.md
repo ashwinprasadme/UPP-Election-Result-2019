@@ -13,4 +13,4 @@
 
 |  Constituency   |       Candidate       |  Votes   |
 |:---------------:|:---------------------:|---------:|
-
+|  Constituency   |       Candidate       |  Votes   |
