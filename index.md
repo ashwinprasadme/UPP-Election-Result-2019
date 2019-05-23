@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 115,101 
+# TOTAL VOTES - 115,103 
 ## (Collected from 26/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 18:00 | 23-05-2019 
+### Last Updated - 18:02 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -32,7 +32,7 @@
 |    Kolar (SC)    |        RAMANJI. R        |**3,405**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |**3,391**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,252**|
-|     Bagalkot     |  M Shashikumar Hlepadi   |**1,905**|
+|     Bagalkot     |  M Shashikumar Hlepadi   |**1,907**|
 |      Bidar       |      AMBRESH KENCHA      |**1,853**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |**1,776**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,629**|
