@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 118,040 
-## (Collected from 27/28 Constituencies) 
+# TOTAL VOTES - 114,827 
+## (Collected from 26/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 17:45 | 23-05-2019 
+### Last Updated - 17:47 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -31,7 +31,6 @@
 |Udupi Chikmagalur |      SURESH KUNDER       |**3,460**|
 |    Kolar (SC)    |        RAMANJI. R        |**3,405**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |**3,364**|
-|    Davanagere    |       GANESHA B A        |**3,213**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,252**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |**1,905**|
 |      Bidar       |      AMBRESH KENCHA      |**1,853**|
