@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 91,068 
+# TOTAL VOTES - 91,544 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 13:39 | 23-05-2019 
+### Last Updated - 13:42 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -16,27 +16,27 @@
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**8,396**|
 | Bangalore Rural  |      MANJUNATHA. M       |**8,175**|
 |      Hassan      |     H M CHANDREGOWDA     |**7,007**|
-|      Haveri      |       ISHWAR PATIL       |**6,824**|
-|Chamrajanagar (SC)|      HANUR NAGARAJU      |**6,758**|
+|Chamrajanagar (SC)|      HANUR NAGARAJU      |**6,886**|
+|      Haveri      |       ISHWAR PATIL       |**6,871**|
 | Bangalore North  |       Santhosh M.        |**5,031**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**4,617**|
-|  Chikkballapur   |        Muniraju.G        |**4,504**|
+|  Chikkballapur   |        Muniraju.G        |**4,598**|
 |Bangalore Central |   Mellegatti Shridevi    |**3,814**|
 |     Shimoga      |       VENKATESH.R        |**3,678**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |**3,558**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**3,520**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**3,409**|
-|      Tumkur      |    CHAYA RAJASHANKAR     |**3,127**|
+|      Tumkur      |    CHAYA RAJASHANKAR     |**3,188**|
 |    Kolar (SC)    |        RAMANJI. R        |**2,698**|
 |      Mysore      |       ASHARANI.V.        |**2,311**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,244**|
-|    Davanagere    |       GANESHA B A        |**1,657**|
-|      Bidar       |      AMBRESH KENCHA      |**1,522**|
-|Udupi Chikmagalur |      SURESH KUNDER       |**1,497**|
+|    Davanagere    |       GANESHA B A        |**1,740**|
+|      Bidar       |      AMBRESH KENCHA      |**1,536**|
+|Udupi Chikmagalur |      SURESH KUNDER       |**1,528**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,478**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |**1,351**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |**1,152**|
-|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **967**|
+|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **985**|
 |     Dharwad      |      Santosh Nandur      |  **777**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |  **647**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **349**|
