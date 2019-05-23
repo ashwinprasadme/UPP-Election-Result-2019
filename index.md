@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 19,464 
+# TOTAL VOTES - 19,500 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -23,7 +23,7 @@
 |  Chikkballapur   |        Muniraju.G        |  **903**|
 | Bangalore North  |       Santhosh M.        |  **881**|
 | Chitradurga (SC) |       DEVENDRAPPA        |  **752**|
-|     Shimoga      |       VENKATESH.R        |  **711**|
+|     Shimoga      |       VENKATESH.R        |  **738**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |  **638**|
 |  Uttara Kannada  |       SUNIL PAWAR        |  **611**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |  **587**|
@@ -32,7 +32,7 @@
 |      Bidar       |      AMBRESH KENCHA      |  **290**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **288**|
 |    Kolar (SC)    |        RAMANJI. R        |  **279**|
-|Udupi Chikmagalur |      SURESH KUNDER       |  **244**|
+|Udupi Chikmagalur |      SURESH KUNDER       |  **253**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **237**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **192**|
 |     Dharwad      |      Santosh Nandur      |  **147**|
@@ -43,13 +43,13 @@
 
 
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-        gtag('config', 'UA-138371535-2');
-        </script>
+gtag('config', 'UA-138371535-2');
+</script>
         
