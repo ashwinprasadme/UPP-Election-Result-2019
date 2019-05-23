@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 23,569 
+# TOTAL VOTES - 23,581 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -35,7 +35,7 @@
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **283**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **253**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **249**|
-|     Dharwad      |      Santosh Nandur      |  **157**|
+|     Dharwad      |      Santosh Nandur      |  **169**|
 |    Davanagere    |       GANESHA B A        |  **149**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |  **113**|
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |   **83**|
@@ -43,13 +43,13 @@
 
 
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-        gtag('config', 'UA-138371535-2');
-        </script>
+gtag('config', 'UA-138371535-2');
+</script>
         
