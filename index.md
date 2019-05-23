@@ -1,19 +1,19 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 77,981 
+# TOTAL VOTES - 78,648 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 12:57 | 23-05-2019 
+### Last Updated - 12:59 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
-|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**7,301**|
+|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**7,572**|
 |      Hassan      |     H M CHANDREGOWDA     |**6,837**|
 | Bangalore Rural  |      MANJUNATHA. M       |**6,777**|
 |      Haveri      |       ISHWAR PATIL       |**6,770**|
@@ -24,21 +24,21 @@
 |Bangalore Central |   Mellegatti Shridevi    |**3,396**|
 |     Shimoga      |       VENKATESH.R        |**3,183**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**3,111**|
-|   Raichur (ST)   |      NIRANJAN NAYAK      |**2,944**|
+|   Raichur (ST)   |      NIRANJAN NAYAK      |**3,079**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**2,734**|
-|      Tumkur      |    CHAYA RAJASHANKAR     |**2,532**|
-|    Kolar (SC)    |        RAMANJI. R        |**2,244**|
-|     Koppald      |   BANDIMATH SHARANAYYA   |**2,168**|
+|      Tumkur      |    CHAYA RAJASHANKAR     |**2,592**|
+|    Kolar (SC)    |        RAMANJI. R        |**2,313**|
+|     Koppald      |   BANDIMATH SHARANAYYA   |**2,189**|
 |      Mysore      |       ASHARANI.V.        |**1,979**|
 |      Bidar       |      AMBRESH KENCHA      |**1,251**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,250**|
 |    Davanagere    |       GANESHA B A        |**1,217**|
 |Udupi Chikmagalur |      SURESH KUNDER       |**1,136**|
-|      Mandya      |    DIVAKAR.C.P.GOWDA     |**1,028**|
+|      Mandya      |    DIVAKAR.C.P.GOWDA     |**1,082**|
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **765**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **735**|
-|     Dharwad      |      Santosh Nandur      |  **539**|
-|     Bagalkot     |  M Shashikumar Hlepadi   |  **452**|
+|     Dharwad      |      Santosh Nandur      |  **589**|
+|     Bagalkot     |  M Shashikumar Hlepadi   |  **459**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **271**|
 
 
