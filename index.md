@@ -8,7 +8,7 @@
 ---
 # Results by Constituency 
 
-### Last Updated - 15:45 | 23-05-2019 
+### Last Updated - 15:47 | 23-05-2019 
 
 
 |  Constituency  |      Candidate       |  Votes  |
