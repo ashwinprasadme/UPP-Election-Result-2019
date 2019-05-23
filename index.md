@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 29,166 
+# TOTAL VOTES - 29,253 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -18,7 +18,7 @@
 |      Haveri      |       ISHWAR PATIL       |**2,676**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |**1,890**|
 | Bangalore Rural  |      MANJUNATHA. M       |**1,822**|
-|Bangalore Central |   Mellegatti Shridevi    |**1,561**|
+|Bangalore Central |   Mellegatti Shridevi    |**1,648**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**1,539**|
 | Bangalore North  |       Santhosh M.        |**1,460**|
 |  Chikkballapur   |        Muniraju.G        |**1,345**|
@@ -42,4 +42,14 @@
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **44**|
 
 
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-138371535-2');
+        </script>
+        
