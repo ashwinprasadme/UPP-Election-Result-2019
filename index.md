@@ -1,21 +1,21 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 5,843 
+# TOTAL VOTES - 5,936 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 09:19 | 23-05-2019 
+### Last Updated - 09:20 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
 |      Haveri      |       ISHWAR PATIL       |**1,020**|
 |      Hassan      |     H M CHANDREGOWDA     |  **923**|
-|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |  **763**|
+|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |  **856**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |  **534**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|  **425**|
 |Bangalore Central |   Mellegatti Shridevi    |  **417**|
