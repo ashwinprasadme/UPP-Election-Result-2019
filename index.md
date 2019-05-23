@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 58,005 
+# TOTAL VOTES - 58,384 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 11:54 | 23-05-2019 
+### Last Updated - 11:56 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -18,14 +18,14 @@
 |      Haveri      |       ISHWAR PATIL       |**5,222**|
 | Bangalore Rural  |      MANJUNATHA. M       |**4,465**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |**4,044**|
-| Bangalore North  |       Santhosh M.        |**3,064**|
+| Bangalore North  |       Santhosh M.        |**3,286**|
+| Bangalore South  |AHORATRA NATESHA POLEPALLI|**2,671**|
 |Bangalore Central |   Mellegatti Shridevi    |**2,666**|
-| Bangalore South  |AHORATRA NATESHA POLEPALLI|**2,607**|
 |  Chikkballapur   |        Muniraju.G        |**2,520**|
+| Chitradurga (SC) |       DEVENDRAPPA        |**2,497**|
 |     Shimoga      |       VENKATESH.R        |**2,479**|
-| Chitradurga (SC) |       DEVENDRAPPA        |**2,455**|
+|  Uttara Kannada  |       SUNIL PAWAR        |**2,182**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |**2,171**|
-|  Uttara Kannada  |       SUNIL PAWAR        |**2,131**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**1,836**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |**1,823**|
 |    Kolar (SC)    |        RAMANJI. R        |**1,646**|
