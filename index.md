@@ -1,36 +1,37 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 6,199 
+# TOTAL VOTES - 6,816 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 09:22 | 23-05-2019 
+### Last Updated - 09:23 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
-|      Haveri      |       ISHWAR PATIL       |**1,020**|
+|      Haveri      |       ISHWAR PATIL       |**1,328**|
+|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |  **979**|
 |      Hassan      |     H M CHANDREGOWDA     |  **923**|
-|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |  **856**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |  **534**|
 |Bangalore Central |   Mellegatti Shridevi    |  **468**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|  **425**|
-| Bangalore North  |       Santhosh M.        |  **319**|
+| Bangalore North  |       Santhosh M.        |  **391**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |  **279**|
 |     Shimoga      |       VENKATESH.R        |  **243**|
+|  Chikkballapur   |        Muniraju.G        |  **213**|
 |  Uttara Kannada  |       SUNIL PAWAR        |  **185**|
 | Chitradurga (SC) |       DEVENDRAPPA        |  **173**|
-|  Chikkballapur   |        Muniraju.G        |  **146**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |  **139**|
-| Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **129**|
+| Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **135**|
 |      Bidar       |      AMBRESH KENCHA      |  **115**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |   **85**|
 |    Davanagere    |       GANESHA B A        |   **49**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |   **46**|
+|      Mysore      |       ASHARANI.V.        |   **41**|
 |     Dharwad      |      Santosh Nandur      |   **33**|
 | Bangalore Rural  |      MANJUNATHA. M       |   **23**|
 |    Kolar (SC)    |        RAMANJI. R        |    **9**|
@@ -39,17 +40,16 @@
 |     Bagalkot     |  M Shashikumar Hlepadi   |    **0**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |    **0**|
 |Udupi Chikmagalur |      SURESH KUNDER       |    **0**|
-|      Mysore      |       ASHARANI.V.        |    **0**|
 
 
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-        gtag('config', 'UA-138371535-2');
-        </script>
+gtag('config', 'UA-138371535-2');
+</script>
         
