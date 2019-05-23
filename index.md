@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 8,017 
+# TOTAL VOTES - 8,043 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 09:28 | 23-05-2019 
+### Last Updated - 09:29 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -30,8 +30,8 @@
 |      Bidar       |      AMBRESH KENCHA      |  **115**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |   **85**|
 |      Mysore      |       ASHARANI.V.        |   **76**|
+|    Davanagere    |       GANESHA B A        |   **75**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |   **55**|
-|    Davanagere    |       GANESHA B A        |   **49**|
 |     Dharwad      |      Santosh Nandur      |   **33**|
 | Bangalore Rural  |      MANJUNATHA. M       |   **23**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **15**|
@@ -42,4 +42,14 @@
 |Udupi Chikmagalur |      SURESH KUNDER       |    **0**|
 
 
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-138371535-2');
+        </script>
+        
