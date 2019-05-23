@@ -1,44 +1,44 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 114,172 
+# TOTAL VOTES - 115,089 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 16:22 | 23-05-2019 
+### Last Updated - 16:25 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
 | Bangalore Rural  |      MANJUNATHA. M       |**9,889**|
-|Chamrajanagar (SC)|      HANUR NAGARAJU      |**9,276**|
+|Chamrajanagar (SC)|      HANUR NAGARAJU      |**9,342**|
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**8,479**|
 |      Haveri      |       ISHWAR PATIL       |**7,024**|
-|      Hassan      |     H M CHANDREGOWDA     |**7,007**|
+|      Hassan      |     H M CHANDREGOWDA     |**7,023**|
 | Bangalore North  |       Santhosh M.        |**6,553**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**6,112**|
-|   Raichur (ST)   |      NIRANJAN NAYAK      |**5,746**|
+|   Raichur (ST)   |      NIRANJAN NAYAK      |**5,947**|
 |  Chikkballapur   |        Muniraju.G        |**5,092**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |**4,358**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**4,276**|
 |Bangalore Central |   Mellegatti Shridevi    |**4,234**|
 |     Shimoga      |       VENKATESH.R        |**4,087**|
-|      Mysore      |       ASHARANI.V.        |**3,806**|
+|      Mysore      |       ASHARANI.V.        |**3,899**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**3,727**|
 |    Kolar (SC)    |        RAMANJI. R        |**3,405**|
 |    Davanagere    |       GANESHA B A        |**3,017**|
-|Udupi Chikmagalur |      SURESH KUNDER       |**2,742**|
-|      Mandya      |    DIVAKAR.C.P.GOWDA     |**2,703**|
+|      Mandya      |    DIVAKAR.C.P.GOWDA     |**2,925**|
+|Udupi Chikmagalur |      SURESH KUNDER       |**2,864**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,252**|
 |      Bidar       |      AMBRESH KENCHA      |**1,851**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |**1,776**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,628**|
-|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |**1,519**|
-|     Bagalkot     |  M Shashikumar Hlepadi   |**1,476**|
-|     Dharwad      |      Santosh Nandur      |**1,407**|
+|     Bagalkot     |  M Shashikumar Hlepadi   |**1,600**|
+|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |**1,524**|
+|     Dharwad      |      Santosh Nandur      |**1,475**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **730**|
 
 
