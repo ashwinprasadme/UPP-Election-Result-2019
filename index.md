@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 23,397 
+# TOTAL VOTES - 23,569 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -21,8 +21,8 @@
 | Bangalore North  |       Santhosh M.        |**1,342**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**1,298**|
 |Bangalore Central |   Mellegatti Shridevi    |**1,222**|
+|  Chikkballapur   |        Muniraju.G        |**1,116**|
 |     Shimoga      |       VENKATESH.R        |**1,081**|
-|  Chikkballapur   |        Muniraju.G        |  **984**|
 | Chitradurga (SC) |       DEVENDRAPPA        |  **930**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |  **791**|
 |  Uttara Kannada  |       SUNIL PAWAR        |  **782**|
@@ -34,12 +34,22 @@
 |      Bidar       |      AMBRESH KENCHA      |  **310**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **283**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **253**|
-|  Gulbarga (SC)   |      MAHESH LAMBANI      |  **230**|
+|  Gulbarga (SC)   |      MAHESH LAMBANI      |  **249**|
 |     Dharwad      |      Santosh Nandur      |  **157**|
 |    Davanagere    |       GANESHA B A        |  **149**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |  **113**|
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |   **83**|
-|     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **23**|
+|     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **44**|
 
 
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-138371535-2');
+        </script>
+        
