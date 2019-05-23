@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 115,103 
+# TOTAL VOTES - 115,639 
 ## (Collected from 26/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 18:02 | 23-05-2019 
+### Last Updated - 18:04 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -16,9 +16,9 @@
 | Bangalore Rural  |      MANJUNATHA. M       |**9,889**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |**9,501**|
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**8,479**|
+|   Raichur (ST)   |      NIRANJAN NAYAK      |**7,263**|
 |      Haveri      |       ISHWAR PATIL       |**7,024**|
 |      Hassan      |     H M CHANDREGOWDA     |**7,023**|
-|   Raichur (ST)   |      NIRANJAN NAYAK      |**6,727**|
 | Bangalore North  |       Santhosh M.        |**6,598**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**6,128**|
 |  Chikkballapur   |        Muniraju.G        |**5,093**|
