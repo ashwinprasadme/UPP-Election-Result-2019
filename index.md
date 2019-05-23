@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 50,095 
+# TOTAL VOTES - 50,323 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 11:33 | 23-05-2019 
+### Last Updated - 11:36 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -23,16 +23,16 @@
 |Bangalore Central |   Mellegatti Shridevi    |**2,239**|
 |  Chikkballapur   |        Muniraju.G        |**2,170**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**2,130**|
-|     Shimoga      |       VENKATESH.R        |**1,995**|
+|     Shimoga      |       VENKATESH.R        |**2,072**|
+|   Raichur (ST)   |      NIRANJAN NAYAK      |**1,958**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**1,895**|
-|   Raichur (ST)   |      NIRANJAN NAYAK      |**1,892**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |**1,569**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**1,372**|
-|    Kolar (SC)    |        RAMANJI. R        |**1,327**|
-|      Mysore      |       ASHARANI.V.        |**1,217**|
+|    Kolar (SC)    |        RAMANJI. R        |**1,368**|
+|      Mysore      |       ASHARANI.V.        |**1,255**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **812**|
+|      Bidar       |      AMBRESH KENCHA      |  **756**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **752**|
-|      Bidar       |      AMBRESH KENCHA      |  **750**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **608**|
 |    Davanagere    |       GANESHA B A        |  **505**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **442**|
