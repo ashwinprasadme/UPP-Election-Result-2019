@@ -1,44 +1,44 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 103,590 
+# TOTAL VOTES - 105,467 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 14:47 | 23-05-2019 
+### Last Updated - 14:49 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
 | Bangalore Rural  |      MANJUNATHA. M       |**9,268**|
-|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**8,473**|
-|Chamrajanagar (SC)|      HANUR NAGARAJU      |**8,254**|
+|Chamrajanagar (SC)|      HANUR NAGARAJU      |**8,485**|
+|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**8,475**|
 |      Haveri      |       ISHWAR PATIL       |**7,024**|
 |      Hassan      |     H M CHANDREGOWDA     |**7,007**|
 | Bangalore North  |       Santhosh M.        |**6,105**|
-| Bangalore South  |AHORATRA NATESHA POLEPALLI|**5,496**|
-|  Chikkballapur   |        Muniraju.G        |**5,081**|
-|   Raichur (ST)   |      NIRANJAN NAYAK      |**4,179**|
-|     Shimoga      |       VENKATESH.R        |**4,044**|
-| Chitradurga (SC) |       DEVENDRAPPA        |**3,994**|
+| Bangalore South  |AHORATRA NATESHA POLEPALLI|**5,777**|
+|  Chikkballapur   |        Muniraju.G        |**5,091**|
+|   Raichur (ST)   |      NIRANJAN NAYAK      |**4,606**|
+| Chitradurga (SC) |       DEVENDRAPPA        |**4,203**|
+|     Shimoga      |       VENKATESH.R        |**4,078**|
+|      Tumkur      |    CHAYA RAJASHANKAR     |**3,996**|
 |Bangalore Central |   Mellegatti Shridevi    |**3,947**|
-|      Tumkur      |    CHAYA RAJASHANKAR     |**3,902**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**3,721**|
-|    Kolar (SC)    |        RAMANJI. R        |**3,356**|
+|    Kolar (SC)    |        RAMANJI. R        |**3,361**|
 |      Mysore      |       ASHARANI.V.        |**2,999**|
-|    Davanagere    |       GANESHA B A        |**2,304**|
+|    Davanagere    |       GANESHA B A        |**2,488**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,244**|
-|      Bidar       |      AMBRESH KENCHA      |**1,808**|
-|Udupi Chikmagalur |      SURESH KUNDER       |**1,802**|
-|      Mandya      |    DIVAKAR.C.P.GOWDA     |**1,727**|
-|  Gulbarga (SC)   |      MAHESH LAMBANI      |**1,611**|
-| Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,571**|
-|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |**1,338**|
+|Udupi Chikmagalur |      SURESH KUNDER       |**1,951**|
+|      Bidar       |      AMBRESH KENCHA      |**1,834**|
+|      Mandya      |    DIVAKAR.C.P.GOWDA     |**1,769**|
+|  Gulbarga (SC)   |      MAHESH LAMBANI      |**1,651**|
+| Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,592**|
+|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |**1,410**|
+|     Dharwad      |      Santosh Nandur      |  **988**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |  **967**|
-|     Dharwad      |      Santosh Nandur      |  **938**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **430**|
 
 
