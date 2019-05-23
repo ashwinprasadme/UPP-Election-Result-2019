@@ -27,34 +27,39 @@ def readStateInfo(filepath):
     return _info
 
 
-def getResultConstituency(constituency, party, state="S16", candidate=None):
+def getResultConstituency(constituency, party, state="S10", candidate=None):
     # http://eciresults.nic.in/ConstituencywiseS1610.htm?ac=10
     # NEW - https://results.eci.gov.in/ConstituencywiseS1610.htm?ac=10
-    resultUrl = "https://results.eci.gov.in/Constituencywise{0}{1}.htm?ac={1}"
+    # https://results.eci.gov.in/pc/en/constituencywise/Constituencywise{0}{1}.htm?ac={1}
+    # resultUrl = "https://results.eci.gov.in/Constituencywise{0}{1}.htm?ac={1}"
+    resultUrl = "https://results.eci.gov.in/pc/en/constituencywise/Constituencywise{0}{1}.htm?ac={1}"
     # print(resultUrl.format(state, constituency))
     response = requests.get(resultUrl.format(state, constituency))
 
+
     # print(response)
     soup = BeautifulSoup(response.text, "html.parser")
-    votes_table = soup.find('table', {"style": "margin: auto; width: 100%; font-family: Verdana; border: solid 1px black;font-weight:lighter"})
+    # votes_table = soup.find('table', {"style": "margin: auto; width: 100%; font-family: Verdana; border: solid 1px black;font-weight:lighter"})
+    votes_table = soup.find('table', {"class":"table-party"})
+    votes_table_tr = votes_table.find_all('tr')
 
     _resultDict = None
 
-    for tr in votes_table:
-        # print(tr)
+    for tr in votes_table_tr:
+        print(tr)
         if tr != "":
             try:
                 _votes = None
                 tds = tr.find_all('td')
                 if candidate is None:
-                    if tds[1].text == party:
+                    if tds[2].text == party:
                         # print("Candidate: {0} Party: {1}  Votes: {2}".format(tds[0].text, tds[1].text, tds[2].text))
-                        _resultDict = {"candidate": tds[0].text, "party": tds[1].text, "votes": int(tds[2].text)}
+                        _resultDict = {"candidate": tds[0].text, "party": tds[1].text, "votes": int(tds[5].text)}
                         break
                 else:
-                    if tds[0].text == candidate:
+                    if tds[1].text == candidate:
                         # print("Candidate: {0} Party: {1}  Votes: {2}".format(tds[0].text, tds[1].text, tds[2].text))
-                        _resultDict = {"candidate": tds[0].text, "party": tds[1].text, "votes": int(tds[2].text)}
+                        _resultDict = {"candidate": tds[0].text, "party": tds[1].text, "votes": int(tds[5].text)}
                         break
             except Exception as ae:
                 _resultDict = None
@@ -68,8 +73,8 @@ def getResultConstituency(constituency, party, state="S16", candidate=None):
 
 while True:
 
-    STATE = "mizoram"
-    PARTY = "Indian National Congress"
+    STATE = "karnataka"
+    PARTY = "UPJP"
 
     _constituencies = readStateInfo("states/{0}.csv".format(STATE))
 
@@ -106,12 +111,24 @@ while True:
         india_now = datetime.now(tz)
         file = open("index.md","w") 
         
-        file.write("# Election Result UPP 2019 - Test \n") 
+        file.write("# Election Result UPP 2019\n") 
         file.write("\n---\n")         
         file.write("# TOTAL VOTES - {0:,} \n## (Collected from {1}/{2} Constituencies) \n\n".format(_totalVotes, _totalConstituencyCollected, len(_constituencies))) 
         file.write("\n---\n")         
         file.write("# Results by Constituency \n\n")                 
         file.write("### Last Updated - {0} \n\n\n".format(india_now.strftime("%H:%M | %d-%m-%Y"))) 
+
+        file.write("""
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-138371535-2');
+        </script>
+        """) 
 
         file.write(writer.dumps()) 
         
