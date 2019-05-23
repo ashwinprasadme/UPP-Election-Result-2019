@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 65,998 
+# TOTAL VOTES - 66,061 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 12:21 | 23-05-2019 
+### Last Updated - 12:23 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -30,8 +30,8 @@
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,026**|
 |    Kolar (SC)    |        RAMANJI. R        |**1,896**|
 |      Mysore      |       ASHARANI.V.        |**1,647**|
+|      Bidar       |      AMBRESH KENCHA      |**1,077**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,045**|
-|      Bidar       |      AMBRESH KENCHA      |**1,014**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **944**|
 |    Davanagere    |       GANESHA B A        |  **814**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **771**|
