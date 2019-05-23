@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 38,494 
+# TOTAL VOTES - 38,713 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 11:04 | 23-05-2019 
+### Last Updated - 11:06 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -21,22 +21,22 @@
 | Bangalore North  |       Santhosh M.        |**1,904**|
 |Bangalore Central |   Mellegatti Shridevi    |**1,891**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**1,833**|
-|  Chikkballapur   |        Muniraju.G        |**1,736**|
+|  Chikkballapur   |        Muniraju.G        |**1,794**|
 |     Shimoga      |       VENKATESH.R        |**1,614**|
+| Chitradurga (SC) |       DEVENDRAPPA        |**1,539**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |**1,520**|
-| Chitradurga (SC) |       DEVENDRAPPA        |**1,490**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**1,386**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |**1,168**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**1,095**|
-|    Kolar (SC)    |        RAMANJI. R        |  **964**|
+|    Kolar (SC)    |        RAMANJI. R        |**1,024**|
 |      Mysore      |       ASHARANI.V.        |  **880**|
 |      Bidar       |      AMBRESH KENCHA      |  **644**|
+| Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **577**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **569**|
-| Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **537**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **484**|
 |    Davanagere    |       GANESHA B A        |  **390**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **345**|
-|     Dharwad      |      Santosh Nandur      |  **272**|
+|     Dharwad      |      Santosh Nandur      |  **284**|
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **236**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |  **161**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **74**|
