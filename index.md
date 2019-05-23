@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 31,905 
+# TOTAL VOTES - 31,970 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 10:44 | 23-05-2019 
+### Last Updated - 10:45 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -27,7 +27,7 @@
 |   Raichur (ST)   |      NIRANJAN NAYAK      |**1,190**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**1,080**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |  **960**|
-|      Tumkur      |    CHAYA RAJASHANKAR     |  **888**|
+|      Tumkur      |    CHAYA RAJASHANKAR     |  **953**|
 |    Kolar (SC)    |        RAMANJI. R        |  **765**|
 |      Mysore      |       ASHARANI.V.        |  **631**|
 |      Bidar       |      AMBRESH KENCHA      |  **509**|
@@ -42,4 +42,14 @@
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **44**|
 
 
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-138371535-2');
+        </script>
+        
