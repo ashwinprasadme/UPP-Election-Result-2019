@@ -1,21 +1,21 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 6,816 
+# TOTAL VOTES - 6,930 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 09:23 | 23-05-2019 
+### Last Updated - 09:24 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
 |      Haveri      |       ISHWAR PATIL       |**1,328**|
+|      Hassan      |     H M CHANDREGOWDA     |**1,037**|
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |  **979**|
-|      Hassan      |     H M CHANDREGOWDA     |  **923**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |  **534**|
 |Bangalore Central |   Mellegatti Shridevi    |  **468**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|  **425**|
@@ -43,13 +43,13 @@
 
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-gtag('config', 'UA-138371535-2');
-</script>
+        gtag('config', 'UA-138371535-2');
+        </script>
         
