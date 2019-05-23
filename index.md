@@ -1,31 +1,31 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 54,177 
+# TOTAL VOTES - 54,863 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 11:45 | 23-05-2019 
+### Last Updated - 11:47 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
+|      Hassan      |     H M CHANDREGOWDA     |**5,534**|
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**5,466**|
-|      Hassan      |     H M CHANDREGOWDA     |**5,415**|
 |      Haveri      |       ISHWAR PATIL       |**4,893**|
 | Bangalore Rural  |      MANJUNATHA. M       |**4,275**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |**3,791**|
 | Bangalore North  |       Santhosh M.        |**2,977**|
-|Bangalore Central |   Mellegatti Shridevi    |**2,510**|
-| Bangalore South  |AHORATRA NATESHA POLEPALLI|**2,442**|
+|Bangalore Central |   Mellegatti Shridevi    |**2,639**|
+| Bangalore South  |AHORATRA NATESHA POLEPALLI|**2,607**|
+|  Chikkballapur   |        Muniraju.G        |**2,439**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**2,383**|
-|  Chikkballapur   |        Muniraju.G        |**2,355**|
 |     Shimoga      |       VENKATESH.R        |**2,283**|
+|  Uttara Kannada  |       SUNIL PAWAR        |**2,131**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |**2,039**|
-|  Uttara Kannada  |       SUNIL PAWAR        |**2,028**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |**1,645**|
 |    Kolar (SC)    |        RAMANJI. R        |**1,502**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**1,473**|
@@ -33,11 +33,11 @@
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **861**|
 |      Bidar       |      AMBRESH KENCHA      |  **829**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **786**|
-|      Mandya      |    DIVAKAR.C.P.GOWDA     |  **629**|
+|      Mandya      |    DIVAKAR.C.P.GOWDA     |  **685**|
 |    Davanagere    |       GANESHA B A        |  **526**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **471**|
-|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **436**|
-|     Dharwad      |      Santosh Nandur      |  **378**|
+|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **456**|
+|     Dharwad      |      Santosh Nandur      |  **388**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |  **255**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **176**|
 
