@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 10,248 
+# TOTAL VOTES - 10,272 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -20,9 +20,9 @@
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |  **600**|
 |Bangalore Central |   Mellegatti Shridevi    |  **593**|
 | Bangalore North  |       Santhosh M.        |  **520**|
+|  Chikkballapur   |        Muniraju.G        |  **433**|
 | Chitradurga (SC) |       DEVENDRAPPA        |  **423**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |  **417**|
-|  Chikkballapur   |        Muniraju.G        |  **409**|
 | Bangalore Rural  |      MANJUNATHA. M       |  **369**|
 |     Shimoga      |       VENKATESH.R        |  **363**|
 |  Uttara Kannada  |       SUNIL PAWAR        |  **277**|
@@ -43,13 +43,13 @@
 
 
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-        gtag('config', 'UA-138371535-2');
-        </script>
+gtag('config', 'UA-138371535-2');
+</script>
         
