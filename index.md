@@ -1,19 +1,19 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 62,362 
+# TOTAL VOTES - 62,684 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 12:05 | 23-05-2019 
+### Last Updated - 12:07 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
-|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**6,304**|
+|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**6,442**|
 |      Hassan      |     H M CHANDREGOWDA     |**5,922**|
 |      Haveri      |       ISHWAR PATIL       |**5,643**|
 | Bangalore Rural  |      MANJUNATHA. M       |**5,009**|
@@ -22,15 +22,15 @@
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**2,835**|
 |Bangalore Central |   Mellegatti Shridevi    |**2,820**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**2,738**|
-|     Shimoga      |       VENKATESH.R        |**2,671**|
+|     Shimoga      |       VENKATESH.R        |**2,687**|
 |  Chikkballapur   |        Muniraju.G        |**2,647**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |**2,342**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**2,265**|
-|      Tumkur      |    CHAYA RAJASHANKAR     |**1,934**|
-|     Koppald      |   BANDIMATH SHARANAYYA   |**1,926**|
-|    Kolar (SC)    |        RAMANJI. R        |**1,737**|
-|      Mysore      |       ASHARANI.V.        |**1,540**|
-|      Bidar       |      AMBRESH KENCHA      |  **986**|
+|      Tumkur      |    CHAYA RAJASHANKAR     |**2,002**|
+|     Koppald      |   BANDIMATH SHARANAYYA   |**1,959**|
+|    Kolar (SC)    |        RAMANJI. R        |**1,785**|
+|      Mysore      |       ASHARANI.V.        |**1,550**|
+|      Bidar       |      AMBRESH KENCHA      |  **995**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **968**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **933**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **748**|
