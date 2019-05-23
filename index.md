@@ -8,7 +8,7 @@
 ---
 # Results by Constituency 
 
-### Last Updated - 10:46 | 23-05-2019 
+### Last Updated - 10:47 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -42,4 +42,14 @@
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **44**|
 
 
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-138371535-2');
+        </script>
+        
