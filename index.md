@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 27,589 
+# TOTAL VOTES - 27,686 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 10:33 | 23-05-2019 
+### Last Updated - 10:34 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -25,16 +25,16 @@
 |     Shimoga      |       VENKATESH.R        |**1,255**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**1,145**|
 |  Uttara Kannada  |       SUNIL PAWAR        |  **944**|
+|     Koppald      |   BANDIMATH SHARANAYYA   |  **858**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |  **815**|
-|     Koppald      |   BANDIMATH SHARANAYYA   |  **804**|
-|      Tumkur      |    CHAYA RAJASHANKAR     |  **797**|
+|      Tumkur      |    CHAYA RAJASHANKAR     |  **811**|
 |    Kolar (SC)    |        RAMANJI. R        |  **664**|
 |      Mysore      |       ASHARANI.V.        |  **542**|
 |      Bidar       |      AMBRESH KENCHA      |  **472**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **427**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **307**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **307**|
-|  Gulbarga (SC)   |      MAHESH LAMBANI      |  **257**|
+|  Gulbarga (SC)   |      MAHESH LAMBANI      |  **286**|
 |    Davanagere    |       GANESHA B A        |  **252**|
 |     Dharwad      |      Santosh Nandur      |  **200**|
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **135**|
@@ -43,13 +43,13 @@
 
 
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-        gtag('config', 'UA-138371535-2');
-        </script>
+gtag('config', 'UA-138371535-2');
+</script>
         
