@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 82,104 
+# TOTAL VOTES - 82,146 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 13:06 | 23-05-2019 
+### Last Updated - 13:08 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -20,7 +20,7 @@
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |**5,942**|
 | Bangalore North  |       Santhosh M.        |**4,573**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**4,098**|
-|  Chikkballapur   |        Muniraju.G        |**3,966**|
+|  Chikkballapur   |        Muniraju.G        |**4,008**|
 |Bangalore Central |   Mellegatti Shridevi    |**3,469**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**3,257**|
 |     Shimoga      |       VENKATESH.R        |**3,183**|
