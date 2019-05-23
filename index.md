@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 115,637 
-## (Collected from 26/28 Constituencies) 
+# TOTAL VOTES - 119,004 
+## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 18:13 | 23-05-2019 
+### Last Updated - 18:15 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -16,7 +16,7 @@
 | Bangalore Rural  |      MANJUNATHA. M       |**9,889**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |**9,501**|
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**8,479**|
-|   Raichur (ST)   |      NIRANJAN NAYAK      |**7,263**|
+|   Raichur (ST)   |      NIRANJAN NAYAK      |**7,408**|
 |      Haveri      |       ISHWAR PATIL       |**7,024**|
 |      Hassan      |     H M CHANDREGOWDA     |**7,023**|
 | Bangalore North  |       Santhosh M.        |**6,596**|
@@ -28,9 +28,10 @@
 |     Shimoga      |       VENKATESH.R        |**4,087**|
 |      Mysore      |       ASHARANI.V.        |**4,080**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**3,727**|
-|Udupi Chikmagalur |      SURESH KUNDER       |**3,478**|
+|Udupi Chikmagalur |      SURESH KUNDER       |**3,480**|
 |    Kolar (SC)    |        RAMANJI. R        |**3,405**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |**3,391**|
+|    Davanagere    |       GANESHA B A        |**3,220**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,252**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |**1,907**|
 |      Bidar       |      AMBRESH KENCHA      |**1,853**|
