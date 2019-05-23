@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 20,507 
+# TOTAL VOTES - 20,768 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -16,10 +16,10 @@
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**2,638**|
 |      Hassan      |     H M CHANDREGOWDA     |**2,411**|
 |      Haveri      |       ISHWAR PATIL       |**1,846**|
+| Bangalore Rural  |      MANJUNATHA. M       |**1,440**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |**1,315**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**1,218**|
 |Bangalore Central |   Mellegatti Shridevi    |**1,195**|
-| Bangalore Rural  |      MANJUNATHA. M       |**1,179**|
 | Bangalore North  |       Santhosh M.        |  **973**|
 |  Chikkballapur   |        Muniraju.G        |  **923**|
 |     Shimoga      |       VENKATESH.R        |  **917**|
@@ -43,13 +43,13 @@
 
 
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-        gtag('config', 'UA-138371535-2');
-        </script>
+gtag('config', 'UA-138371535-2');
+</script>
         
