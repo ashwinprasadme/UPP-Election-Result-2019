@@ -1,39 +1,39 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 93,104 
+# TOTAL VOTES - 94,214 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 13:46 | 23-05-2019 
+### Last Updated - 13:48 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
 | Bangalore Rural  |      MANJUNATHA. M       |**8,430**|
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**8,405**|
-|Chamrajanagar (SC)|      HANUR NAGARAJU      |**7,144**|
+|Chamrajanagar (SC)|      HANUR NAGARAJU      |**7,437**|
 |      Hassan      |     H M CHANDREGOWDA     |**7,007**|
-|      Haveri      |       ISHWAR PATIL       |**6,871**|
-| Bangalore North  |       Santhosh M.        |**5,174**|
-| Bangalore South  |AHORATRA NATESHA POLEPALLI|**4,827**|
-|  Chikkballapur   |        Muniraju.G        |**4,705**|
+|      Haveri      |       ISHWAR PATIL       |**6,910**|
+| Bangalore North  |       Santhosh M.        |**5,263**|
+| Bangalore South  |AHORATRA NATESHA POLEPALLI|**4,961**|
+|  Chikkballapur   |        Muniraju.G        |**4,795**|
 |Bangalore Central |   Mellegatti Shridevi    |**3,874**|
 |     Shimoga      |       VENKATESH.R        |**3,730**|
-|   Raichur (ST)   |      NIRANJAN NAYAK      |**3,558**|
+|   Raichur (ST)   |      NIRANJAN NAYAK      |**3,692**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**3,538**|
-|  Uttara Kannada  |       SUNIL PAWAR        |**3,493**|
-|      Tumkur      |    CHAYA RAJASHANKAR     |**3,188**|
+|  Uttara Kannada  |       SUNIL PAWAR        |**3,502**|
+|      Tumkur      |    CHAYA RAJASHANKAR     |**3,318**|
 |    Kolar (SC)    |        RAMANJI. R        |**2,785**|
-|      Mysore      |       ASHARANI.V.        |**2,373**|
+|      Mysore      |       ASHARANI.V.        |**2,426**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,244**|
-|    Davanagere    |       GANESHA B A        |**1,740**|
+|    Davanagere    |       GANESHA B A        |**1,846**|
 |      Bidar       |      AMBRESH KENCHA      |**1,560**|
-|Udupi Chikmagalur |      SURESH KUNDER       |**1,528**|
-| Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,478**|
+|Udupi Chikmagalur |      SURESH KUNDER       |**1,542**|
+| Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,497**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |**1,372**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |**1,167**|
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |**1,026**|
