@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 26,858 
+# TOTAL VOTES - 26,966 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 10:29 | 23-05-2019 
+### Last Updated - 10:31 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -22,12 +22,12 @@
 | Bangalore North  |       Santhosh M.        |**1,460**|
 |Bangalore Central |   Mellegatti Shridevi    |**1,452**|
 |     Shimoga      |       VENKATESH.R        |**1,209**|
-|  Chikkballapur   |        Muniraju.G        |**1,116**|
+|  Chikkballapur   |        Muniraju.G        |**1,183**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**1,045**|
 |  Uttara Kannada  |       SUNIL PAWAR        |  **944**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |  **815**|
+|     Koppald      |   BANDIMATH SHARANAYYA   |  **804**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |  **797**|
-|     Koppald      |   BANDIMATH SHARANAYYA   |  **791**|
 |    Kolar (SC)    |        RAMANJI. R        |  **582**|
 |      Mysore      |       ASHARANI.V.        |  **535**|
 |      Bidar       |      AMBRESH KENCHA      |  **417**|
@@ -37,19 +37,9 @@
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **257**|
 |    Davanagere    |       GANESHA B A        |  **203**|
 |     Dharwad      |      Santosh Nandur      |  **200**|
+|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **118**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |  **113**|
-|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |   **90**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **44**|
 
 
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-
-gtag('config', 'UA-138371535-2');
-</script>
-        
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
