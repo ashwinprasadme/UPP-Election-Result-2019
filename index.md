@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 11,815 
+# TOTAL VOTES - 11,936 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 09:44 | 23-05-2019 
+### Last Updated - 09:46 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -23,9 +23,9 @@
 |  Chikkballapur   |        Muniraju.G        |  **501**|
 | Chitradurga (SC) |       DEVENDRAPPA        |  **499**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |  **490**|
+| Bangalore Rural  |      MANJUNATHA. M       |  **490**|
 |     Shimoga      |       VENKATESH.R        |  **428**|
 |  Uttara Kannada  |       SUNIL PAWAR        |  **383**|
-| Bangalore Rural  |      MANJUNATHA. M       |  **369**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |  **296**|
 |      Bidar       |      AMBRESH KENCHA      |  **199**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |  **197**|
@@ -42,14 +42,4 @@
 |     Bagalkot     |  M Shashikumar Hlepadi   |    **0**|
 
 
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-
-gtag('config', 'UA-138371535-2');
-</script>
-        
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
