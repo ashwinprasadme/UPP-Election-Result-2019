@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 19,688 
+# TOTAL VOTES - 19,708 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -20,7 +20,7 @@
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**1,210**|
 | Bangalore Rural  |      MANJUNATHA. M       |**1,179**|
 |Bangalore Central |   Mellegatti Shridevi    |**1,123**|
-|  Chikkballapur   |        Muniraju.G        |  **903**|
+|  Chikkballapur   |        Muniraju.G        |  **923**|
 | Bangalore North  |       Santhosh M.        |  **881**|
 | Chitradurga (SC) |       DEVENDRAPPA        |  **752**|
 |     Shimoga      |       VENKATESH.R        |  **738**|
@@ -42,4 +42,14 @@
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **23**|
 
 
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-138371535-2');
+        </script>
+        
