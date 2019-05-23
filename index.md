@@ -1,38 +1,38 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 54,863 
+# TOTAL VOTES - 56,199 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 11:47 | 23-05-2019 
+### Last Updated - 11:49 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
+|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**5,837**|
 |      Hassan      |     H M CHANDREGOWDA     |**5,534**|
-|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**5,466**|
-|      Haveri      |       ISHWAR PATIL       |**4,893**|
-| Bangalore Rural  |      MANJUNATHA. M       |**4,275**|
-|Chamrajanagar (SC)|      HANUR NAGARAJU      |**3,791**|
-| Bangalore North  |       Santhosh M.        |**2,977**|
+|      Haveri      |       ISHWAR PATIL       |**5,035**|
+| Bangalore Rural  |      MANJUNATHA. M       |**4,465**|
+|Chamrajanagar (SC)|      HANUR NAGARAJU      |**3,841**|
+| Bangalore North  |       Santhosh M.        |**3,064**|
 |Bangalore Central |   Mellegatti Shridevi    |**2,639**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**2,607**|
+| Chitradurga (SC) |       DEVENDRAPPA        |**2,455**|
 |  Chikkballapur   |        Muniraju.G        |**2,439**|
-| Chitradurga (SC) |       DEVENDRAPPA        |**2,383**|
-|     Shimoga      |       VENKATESH.R        |**2,283**|
+|     Shimoga      |       VENKATESH.R        |**2,342**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**2,131**|
-|   Raichur (ST)   |      NIRANJAN NAYAK      |**2,039**|
+|   Raichur (ST)   |      NIRANJAN NAYAK      |**2,089**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |**1,645**|
-|    Kolar (SC)    |        RAMANJI. R        |**1,502**|
-|     Koppald      |   BANDIMATH SHARANAYYA   |**1,473**|
-|      Mysore      |       ASHARANI.V.        |**1,353**|
-| Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **861**|
-|      Bidar       |      AMBRESH KENCHA      |  **829**|
-|Udupi Chikmagalur |      SURESH KUNDER       |  **786**|
+|    Kolar (SC)    |        RAMANJI. R        |**1,586**|
+|     Koppald      |   BANDIMATH SHARANAYYA   |**1,523**|
+|      Mysore      |       ASHARANI.V.        |**1,406**|
+| Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **901**|
+|      Bidar       |      AMBRESH KENCHA      |  **883**|
+|Udupi Chikmagalur |      SURESH KUNDER       |  **820**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **685**|
 |    Davanagere    |       GANESHA B A        |  **526**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **471**|
