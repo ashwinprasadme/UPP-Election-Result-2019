@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 114,005 
+# TOTAL VOTES - 114,120 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 16:12 | 23-05-2019 
+### Last Updated - 16:14 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -39,7 +39,7 @@
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |**1,519**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |**1,476**|
 |     Dharwad      |      Santosh Nandur      |**1,407**|
-|     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **615**|
+|     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **730**|
 
 
 <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-138371535-2'); </script>
