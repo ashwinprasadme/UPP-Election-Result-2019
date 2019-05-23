@@ -54,12 +54,12 @@ def getResultConstituency(constituency, party, state="S10", candidate=None):
                 if candidate is None:
                     if tds[2].text == party:
                         # print("Candidate: {0} Party: {1}  Votes: {2}".format(tds[0].text, tds[1].text, tds[2].text))
-                        _resultDict = {"candidate": tds[0].text, "party": tds[1].text, "votes": int(tds[5].text)}
+                        _resultDict = {"candidate": tds[1].text, "party": tds[2].text, "votes": int(tds[5].text)}
                         break
                 else:
                     if tds[1].text == candidate:
                         # print("Candidate: {0} Party: {1}  Votes: {2}".format(tds[0].text, tds[1].text, tds[2].text))
-                        _resultDict = {"candidate": tds[0].text, "party": tds[1].text, "votes": int(tds[5].text)}
+                        _resultDict = {"candidate": tds[1].text, "party": tds[2].text, "votes": int(tds[5].text)}
                         break
             except Exception as ae:
                 _resultDict = None
@@ -118,6 +118,10 @@ while True:
         file.write("# Results by Constituency \n\n")                 
         file.write("### Last Updated - {0} \n\n\n".format(india_now.strftime("%H:%M | %d-%m-%Y"))) 
 
+        file.write(writer.dumps()) 
+
+        file.write("\n\n")         
+
         file.write("""
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
@@ -130,8 +134,6 @@ while True:
         </script>
         """) 
 
-        file.write(writer.dumps()) 
-        
         file.close() 
 
         r = git.Repo(repo_dir)
