@@ -1,33 +1,33 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 30,463 
+# TOTAL VOTES - 31,057 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 10:40 | 23-05-2019 
+### Last Updated - 10:42 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
-|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**3,596**|
+|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**3,679**|
 |      Hassan      |     H M CHANDREGOWDA     |**3,263**|
-|      Haveri      |       ISHWAR PATIL       |**2,796**|
+|      Haveri      |       ISHWAR PATIL       |**3,065**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |**2,056**|
 | Bangalore Rural  |      MANJUNATHA. M       |**1,869**|
-| Bangalore North  |       Santhosh M.        |**1,745**|
+| Bangalore North  |       Santhosh M.        |**1,748**|
+| Bangalore South  |AHORATRA NATESHA POLEPALLI|**1,699**|
 |Bangalore Central |   Mellegatti Shridevi    |**1,648**|
-| Bangalore South  |AHORATRA NATESHA POLEPALLI|**1,571**|
 |  Chikkballapur   |        Muniraju.G        |**1,345**|
 |     Shimoga      |       VENKATESH.R        |**1,285**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |**1,190**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**1,187**|
-|  Uttara Kannada  |       SUNIL PAWAR        |**1,056**|
+|  Uttara Kannada  |       SUNIL PAWAR        |**1,080**|
+|     Koppald      |   BANDIMATH SHARANAYYA   |  **960**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |  **888**|
-|     Koppald      |   BANDIMATH SHARANAYYA   |  **873**|
 |    Kolar (SC)    |        RAMANJI. R        |  **709**|
 |      Mysore      |       ASHARANI.V.        |  **583**|
 |      Bidar       |      AMBRESH KENCHA      |  **491**|
@@ -42,14 +42,4 @@
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **44**|
 
 
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-
-gtag('config', 'UA-138371535-2');
-</script>
-        
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
