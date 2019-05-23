@@ -1,44 +1,44 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 61,395 
+# TOTAL VOTES - 62,362 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 12:03 | 23-05-2019 
+### Last Updated - 12:05 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**6,304**|
-|      Hassan      |     H M CHANDREGOWDA     |**5,739**|
-|      Haveri      |       ISHWAR PATIL       |**5,425**|
+|      Hassan      |     H M CHANDREGOWDA     |**5,922**|
+|      Haveri      |       ISHWAR PATIL       |**5,643**|
 | Bangalore Rural  |      MANJUNATHA. M       |**5,009**|
-|Chamrajanagar (SC)|      HANUR NAGARAJU      |**4,148**|
+|Chamrajanagar (SC)|      HANUR NAGARAJU      |**4,209**|
 | Bangalore North  |       Santhosh M.        |**3,569**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**2,835**|
-|Bangalore Central |   Mellegatti Shridevi    |**2,755**|
+|Bangalore Central |   Mellegatti Shridevi    |**2,820**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**2,738**|
 |     Shimoga      |       VENKATESH.R        |**2,671**|
-|  Chikkballapur   |        Muniraju.G        |**2,549**|
+|  Chikkballapur   |        Muniraju.G        |**2,647**|
+|   Raichur (ST)   |      NIRANJAN NAYAK      |**2,342**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**2,265**|
-|   Raichur (ST)   |      NIRANJAN NAYAK      |**2,208**|
-|     Koppald      |   BANDIMATH SHARANAYYA   |**1,893**|
-|      Tumkur      |    CHAYA RAJASHANKAR     |**1,881**|
+|      Tumkur      |    CHAYA RAJASHANKAR     |**1,934**|
+|     Koppald      |   BANDIMATH SHARANAYYA   |**1,926**|
 |    Kolar (SC)    |        RAMANJI. R        |**1,737**|
 |      Mysore      |       ASHARANI.V.        |**1,540**|
-|      Bidar       |      AMBRESH KENCHA      |  **971**|
+|      Bidar       |      AMBRESH KENCHA      |  **986**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **968**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **933**|
-|      Mandya      |    DIVAKAR.C.P.GOWDA     |  **722**|
-|    Davanagere    |       GANESHA B A        |  **669**|
-|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **505**|
-|  Gulbarga (SC)   |      MAHESH LAMBANI      |  **484**|
+|      Mandya      |    DIVAKAR.C.P.GOWDA     |  **748**|
+|    Davanagere    |       GANESHA B A        |  **703**|
+|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **512**|
+|  Gulbarga (SC)   |      MAHESH LAMBANI      |  **505**|
 |     Dharwad      |      Santosh Nandur      |  **421**|
-|     Bagalkot     |  M Shashikumar Hlepadi   |  **280**|
+|     Bagalkot     |  M Shashikumar Hlepadi   |  **299**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **176**|
 
 
