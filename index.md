@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 2,114 
+# TOTAL VOTES - 3,232 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 09:03 | 23-05-2019 
+### Last Updated - 09:07 | 23-05-2019 
 
 
 
@@ -23,26 +23,26 @@
         </script>
         |   Constituency   |Candidate| Votes |
 |:----------------:|:-------:|------:|
+|   Bijapur (SC)   |    1    |**627**|
+|      Haveri      |    2    |**586**|
 |      Hassan      |    1    |**548**|
 |Chamrajanagar (SC)|    4    |**381**|
-|   Bijapur (SC)   |    1    |**332**|
-|      Haveri      |    2    |**156**|
+|Bangalore Central |    7    |**215**|
+| Bangalore South  |    6    |**157**|
+|     Koppald      |    3    |**156**|
 | Chitradurga (SC) |    5    |**115**|
-|     Koppald      |    3    |**107**|
-| Bangalore South  |    6    | **84**|
+| Bangalore North  |   12    | **86**|
 |  Uttara Kannada  |    3    | **77**|
-|Bangalore Central |    7    | **75**|
 |      Tumkur      |    5    | **70**|
-| Bangalore North  |   12    | **67**|
+|      Bidar       |    3    | **60**|
+| Dakshina Kannada |    5    | **44**|
 |    Davanagere    |    5    | **39**|
+|     Dharwad      |    9    | **30**|
 |  Chikkballapur   |    9    | **28**|
-|      Bidar       |    3    | **14**|
-|     Dharwad      |    9    | **12**|
-| Dakshina Kannada |    5    |  **9**|
+|  Gulbarga (SC)   |    1    | **13**|
 |     Chikkodi     |    1    |  **0**|
 |     Belgaum      |    5    |  **0**|
 |     Bagalkot     |    3    |  **0**|
-|  Gulbarga (SC)   |    1    |  **0**|
 |   Raichur (ST)   |    2    |  **0**|
 |     Shimoga      |    8    |  **0**|
 |Udupi Chikmagalur |    4    |  **0**|
