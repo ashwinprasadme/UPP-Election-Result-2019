@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 115,942 
+# TOTAL VOTES - 116,195 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 16:49 | 23-05-2019 
+### Last Updated - 16:51 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -21,24 +21,24 @@
 | Bangalore North  |       Santhosh M.        |**6,596**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |**6,138**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**6,112**|
-|  Chikkballapur   |        Muniraju.G        |**5,092**|
+|  Chikkballapur   |        Muniraju.G        |**5,093**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |**4,370**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**4,276**|
 |Bangalore Central |   Mellegatti Shridevi    |**4,234**|
 |     Shimoga      |       VENKATESH.R        |**4,087**|
-|      Mysore      |       ASHARANI.V.        |**3,954**|
+|      Mysore      |       ASHARANI.V.        |**3,995**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**3,727**|
 |    Kolar (SC)    |        RAMANJI. R        |**3,405**|
+|Udupi Chikmagalur |      SURESH KUNDER       |**3,070**|
 |    Davanagere    |       GANESHA B A        |**3,049**|
-|      Mandya      |    DIVAKAR.C.P.GOWDA     |**3,025**|
-|Udupi Chikmagalur |      SURESH KUNDER       |**3,014**|
+|      Mandya      |    DIVAKAR.C.P.GOWDA     |**3,045**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,252**|
 |      Bidar       |      AMBRESH KENCHA      |**1,853**|
+|     Bagalkot     |  M Shashikumar Hlepadi   |**1,813**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |**1,776**|
-|     Bagalkot     |  M Shashikumar Hlepadi   |**1,698**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,628**|
-|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |**1,524**|
-|     Dharwad      |      Santosh Nandur      |**1,520**|
+|     Dharwad      |      Santosh Nandur      |**1,534**|
+|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |**1,530**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **795**|
 
 
