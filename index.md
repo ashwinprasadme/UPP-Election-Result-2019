@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 86,167 
+# TOTAL VOTES - 86,211 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 13:19 | 23-05-2019 
+### Last Updated - 13:21 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -29,7 +29,7 @@
 |      Tumkur      |    CHAYA RAJASHANKAR     |**2,990**|
 |    Kolar (SC)    |        RAMANJI. R        |**2,521**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,225**|
-|      Mysore      |       ASHARANI.V.        |**2,141**|
+|      Mysore      |       ASHARANI.V.        |**2,171**|
 |    Davanagere    |       GANESHA B A        |**1,470**|
 |      Bidar       |      AMBRESH KENCHA      |**1,394**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,379**|
@@ -37,7 +37,7 @@
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |**1,240**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **929**|
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **900**|
-|     Dharwad      |      Santosh Nandur      |  **668**|
+|     Dharwad      |      Santosh Nandur      |  **682**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |  **574**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **320**|
 
