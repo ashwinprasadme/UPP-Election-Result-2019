@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 117,338 
+# TOTAL VOTES - 117,726 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 17:17 | 23-05-2019 
+### Last Updated - 17:19 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -20,18 +20,18 @@
 |      Hassan      |     H M CHANDREGOWDA     |**7,023**|
 | Bangalore North  |       Santhosh M.        |**6,596**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |**6,548**|
-| Bangalore South  |AHORATRA NATESHA POLEPALLI|**6,112**|
+| Bangalore South  |AHORATRA NATESHA POLEPALLI|**6,128**|
 |  Chikkballapur   |        Muniraju.G        |**5,093**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |**4,385**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**4,276**|
 |Bangalore Central |   Mellegatti Shridevi    |**4,234**|
 |     Shimoga      |       VENKATESH.R        |**4,087**|
-|      Mysore      |       ASHARANI.V.        |**4,010**|
+|      Mysore      |       ASHARANI.V.        |**4,022**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**3,727**|
+|Udupi Chikmagalur |      SURESH KUNDER       |**3,460**|
 |    Kolar (SC)    |        RAMANJI. R        |**3,405**|
-|Udupi Chikmagalur |      SURESH KUNDER       |**3,270**|
+|      Mandya      |    DIVAKAR.C.P.GOWDA     |**3,347**|
 |    Davanagere    |       GANESHA B A        |**3,213**|
-|      Mandya      |    DIVAKAR.C.P.GOWDA     |**3,177**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,252**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |**1,891**|
 |      Bidar       |      AMBRESH KENCHA      |**1,853**|
