@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 105,467 
+# TOTAL VOTES - 105,561 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 14:49 | 23-05-2019 
+### Last Updated - 14:51 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -37,8 +37,8 @@
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |**1,651**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,592**|
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |**1,410**|
+|     Bagalkot     |  M Shashikumar Hlepadi   |**1,061**|
 |     Dharwad      |      Santosh Nandur      |  **988**|
-|     Bagalkot     |  M Shashikumar Hlepadi   |  **967**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **430**|
 
 
