@@ -1,44 +1,44 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 74,376 
+# TOTAL VOTES - 75,885 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 12:48 | 23-05-2019 
+### Last Updated - 12:50 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**7,301**|
+|      Haveri      |       ISHWAR PATIL       |**6,589**|
 | Bangalore Rural  |      MANJUNATHA. M       |**6,543**|
 |      Hassan      |     H M CHANDREGOWDA     |**6,487**|
-|      Haveri      |       ISHWAR PATIL       |**6,334**|
-|Chamrajanagar (SC)|      HANUR NAGARAJU      |**5,304**|
-| Bangalore North  |       Santhosh M.        |**4,111**|
-| Bangalore South  |AHORATRA NATESHA POLEPALLI|**3,502**|
-|Bangalore Central |   Mellegatti Shridevi    |**3,294**|
-|  Chikkballapur   |        Muniraju.G        |**3,234**|
-|     Shimoga      |       VENKATESH.R        |**3,091**|
+|Chamrajanagar (SC)|      HANUR NAGARAJU      |**5,412**|
+| Bangalore North  |       Santhosh M.        |**4,260**|
+| Bangalore South  |AHORATRA NATESHA POLEPALLI|**3,629**|
+|  Chikkballapur   |        Muniraju.G        |**3,429**|
+|Bangalore Central |   Mellegatti Shridevi    |**3,396**|
+|     Shimoga      |       VENKATESH.R        |**3,145**|
+| Chitradurga (SC) |       DEVENDRAPPA        |**3,058**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |**2,944**|
-| Chitradurga (SC) |       DEVENDRAPPA        |**2,888**|
-|  Uttara Kannada  |       SUNIL PAWAR        |**2,610**|
+|  Uttara Kannada  |       SUNIL PAWAR        |**2,669**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |**2,450**|
 |    Kolar (SC)    |        RAMANJI. R        |**2,191**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,120**|
 |      Mysore      |       ASHARANI.V.        |**1,913**|
-|      Bidar       |      AMBRESH KENCHA      |**1,205**|
-| Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,142**|
+|      Bidar       |      AMBRESH KENCHA      |**1,251**|
+| Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,193**|
 |Udupi Chikmagalur |      SURESH KUNDER       |**1,136**|
-|    Davanagere    |       GANESHA B A        |**1,028**|
-|      Mandya      |    DIVAKAR.C.P.GOWDA     |  **974**|
+|    Davanagere    |       GANESHA B A        |**1,095**|
+|      Mandya      |    DIVAKAR.C.P.GOWDA     |**1,028**|
+|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **739**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **702**|
-|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **674**|
 |     Dharwad      |      Santosh Nandur      |  **539**|
-|     Bagalkot     |  M Shashikumar Hlepadi   |  **417**|
+|     Bagalkot     |  M Shashikumar Hlepadi   |  **424**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **242**|
 
 
