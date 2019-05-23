@@ -52,7 +52,7 @@ def getResultConstituency(constituency, party, state="S10", candidate=None):
                 _votes = None
                 tds = tr.find_all('td')
                 if candidate is None:
-                    if tds[2].text == party:
+                    if tds[2].text in party:
                         # print("Candidate: {0} Party: {1}  Votes: {2}".format(tds[0].text, tds[1].text, tds[2].text))
                         _resultDict = {"candidate": tds[1].text, "party": tds[2].text, "votes": int(tds[5].text)}
                         break
@@ -74,7 +74,7 @@ def getResultConstituency(constituency, party, state="S10", candidate=None):
 while True:
 
     STATE = "karnataka"
-    PARTY = "UPJP"
+    PARTY = ["UPJP", "Uttama Prajaakeeya Party"]
 
     _constituencies = readStateInfo("states/{0}.csv".format(STATE))
 
@@ -122,17 +122,7 @@ while True:
 
         file.write("\n\n")         
 
-        file.write("""
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-138371535-2');
-        </script>
-        """) 
+        file.write("<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-138371535-2'); </script>") 
 
         file.close() 
 

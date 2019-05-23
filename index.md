@@ -1,13 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 113,307 
-## (Collected from 27/28 Constituencies) 
+# TOTAL VOTES - 14,089 
+## (Collected from 5/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
+<<<<<<< HEAD
 ### Last Updated - 15:58 | 23-05-2019 
 
 
@@ -43,3 +44,18 @@
 
 
 <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-138371535-2'); </script>
+=======
+### Last Updated - 15:47 | 23-05-2019 
+
+
+|  Constituency  |      Candidate       |  Votes  |
+|:--------------:|:--------------------:|--------:|
+|    Shimoga     |     VENKATESH.R      |**3,901**|
+|Chitradurga (SC)|     DEVENDRAPPA      |**3,839**|
+|     Tumkur     |  CHAYA RAJASHANKAR   |**3,539**|
+|     Bidar      |    AMBRESH KENCHA    |**1,655**|
+|    Chikkodi    |PRAVEENKUMAR BALIGATTI|**1,155**|
+
+
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
+>>>>>>> eb94526d38428562e94a81ef0534ec9a11b9b6fd
