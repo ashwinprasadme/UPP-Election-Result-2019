@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 26,730 
+# TOTAL VOTES - 26,858 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -23,13 +23,13 @@
 |Bangalore Central |   Mellegatti Shridevi    |**1,452**|
 |     Shimoga      |       VENKATESH.R        |**1,209**|
 |  Chikkballapur   |        Muniraju.G        |**1,116**|
+| Chitradurga (SC) |       DEVENDRAPPA        |**1,045**|
 |  Uttara Kannada  |       SUNIL PAWAR        |  **944**|
-| Chitradurga (SC) |       DEVENDRAPPA        |  **930**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |  **815**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |  **797**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |  **791**|
 |    Kolar (SC)    |        RAMANJI. R        |  **582**|
-|      Mysore      |       ASHARANI.V.        |  **522**|
+|      Mysore      |       ASHARANI.V.        |  **535**|
 |      Bidar       |      AMBRESH KENCHA      |  **417**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **392**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **307**|
@@ -42,4 +42,14 @@
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **44**|
 
 
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-138371535-2');
+        </script>
+        
