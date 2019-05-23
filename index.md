@@ -1,44 +1,44 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 113,362 
+# TOTAL VOTES - 113,746 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 16:08 | 23-05-2019 
+### Last Updated - 16:10 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
-| Bangalore Rural  |      MANJUNATHA. M       |**9,882**|
+| Bangalore Rural  |      MANJUNATHA. M       |**9,889**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |**9,276**|
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**8,479**|
 |      Haveri      |       ISHWAR PATIL       |**7,024**|
 |      Hassan      |     H M CHANDREGOWDA     |**7,007**|
-| Bangalore North  |       Santhosh M.        |**6,492**|
+| Bangalore North  |       Santhosh M.        |**6,508**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**6,112**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |**5,683**|
 |  Chikkballapur   |        Muniraju.G        |**5,092**|
-|      Tumkur      |    CHAYA RAJASHANKAR     |**4,338**|
+|      Tumkur      |    CHAYA RAJASHANKAR     |**4,358**|
 | Chitradurga (SC) |       DEVENDRAPPA        |**4,276**|
 |Bangalore Central |   Mellegatti Shridevi    |**4,227**|
 |     Shimoga      |       VENKATESH.R        |**4,084**|
+|      Mysore      |       ASHARANI.V.        |**3,806**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**3,727**|
-|      Mysore      |       ASHARANI.V.        |**3,721**|
 |    Kolar (SC)    |        RAMANJI. R        |**3,405**|
-|    Davanagere    |       GANESHA B A        |**2,959**|
+|    Davanagere    |       GANESHA B A        |**3,017**|
+|      Mandya      |    DIVAKAR.C.P.GOWDA     |**2,703**|
 |Udupi Chikmagalur |      SURESH KUNDER       |**2,549**|
-|      Mandya      |    DIVAKAR.C.P.GOWDA     |**2,511**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,252**|
-|  Gulbarga (SC)   |      MAHESH LAMBANI      |**1,910**|
-|      Bidar       |      AMBRESH KENCHA      |**1,845**|
+|      Bidar       |      AMBRESH KENCHA      |**1,851**|
+|  Gulbarga (SC)   |      MAHESH LAMBANI      |**1,776**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,628**|
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |**1,519**|
-|     Bagalkot     |  M Shashikumar Hlepadi   |**1,384**|
-|     Dharwad      |      Santosh Nandur      |**1,365**|
+|     Bagalkot     |  M Shashikumar Hlepadi   |**1,476**|
+|     Dharwad      |      Santosh Nandur      |**1,407**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **615**|
 
 
