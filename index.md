@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 117,934 
+# TOTAL VOTES - 117,946 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 17:28 | 23-05-2019 
+### Last Updated - 17:30 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -26,7 +26,7 @@
 | Chitradurga (SC) |       DEVENDRAPPA        |**4,276**|
 |Bangalore Central |   Mellegatti Shridevi    |**4,234**|
 |     Shimoga      |       VENKATESH.R        |**4,087**|
-|      Mysore      |       ASHARANI.V.        |**4,022**|
+|      Mysore      |       ASHARANI.V.        |**4,034**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**3,727**|
 |Udupi Chikmagalur |      SURESH KUNDER       |**3,460**|
 |    Kolar (SC)    |        RAMANJI. R        |**3,405**|
