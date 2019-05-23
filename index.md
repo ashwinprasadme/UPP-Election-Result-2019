@@ -1,19 +1,19 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 66,061 
+# TOTAL VOTES - 66,311 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 12:23 | 23-05-2019 
+### Last Updated - 12:25 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
-|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**6,495**|
+|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**6,745**|
 |      Hassan      |     H M CHANDREGOWDA     |**6,124**|
 |      Haveri      |       ISHWAR PATIL       |**5,816**|
 | Bangalore Rural  |      MANJUNATHA. M       |**5,582**|
