@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 3,879 
+# TOTAL VOTES - 4,015 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 09:09 | 23-05-2019 
+### Last Updated - 09:11 | 23-05-2019 
 
 
 |   Constituency   |Candidate| Votes |
@@ -22,12 +22,12 @@
 | Bangalore North  |   12    |**168**|
 |     Koppald      |    3    |**156**|
 | Chitradurga (SC) |    5    |**134**|
+|  Chikkballapur   |    9    |**134**|
+|      Tumkur      |    5    |**111**|
 |  Uttara Kannada  |    3    | **97**|
-|      Tumkur      |    5    | **70**|
+| Dakshina Kannada |    5    | **63**|
 |      Mandya      |    5    | **61**|
 |      Bidar       |    3    | **60**|
-|  Chikkballapur   |    9    | **58**|
-| Dakshina Kannada |    5    | **44**|
 |    Davanagere    |    5    | **39**|
 |  Gulbarga (SC)   |    1    | **34**|
 |     Dharwad      |    9    | **30**|
