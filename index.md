@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 116,837 
+# TOTAL VOTES - 117,056 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 17:04 | 23-05-2019 
+### Last Updated - 17:06 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -29,9 +29,9 @@
 |      Mysore      |       ASHARANI.V.        |**4,010**|
 |  Uttara Kannada  |       SUNIL PAWAR        |**3,727**|
 |    Kolar (SC)    |        RAMANJI. R        |**3,405**|
-|    Davanagere    |       GANESHA B A        |**3,207**|
+|Udupi Chikmagalur |      SURESH KUNDER       |**3,270**|
+|    Davanagere    |       GANESHA B A        |**3,213**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |**3,177**|
-|Udupi Chikmagalur |      SURESH KUNDER       |**3,070**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |**2,252**|
 |     Bagalkot     |  M Shashikumar Hlepadi   |**1,891**|
 |      Bidar       |      AMBRESH KENCHA      |**1,853**|
@@ -39,7 +39,7 @@
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |**1,629**|
 |     Dharwad      |      Santosh Nandur      |**1,566**|
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |**1,530**|
-|     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **865**|
+|     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **878**|
 
 
 <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-138371535-2'); </script>
