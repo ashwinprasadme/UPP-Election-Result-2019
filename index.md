@@ -1,45 +1,45 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 4,680 
+# TOTAL VOTES - 5,843 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 09:15 | 23-05-2019 
+### Last Updated - 09:19 | 23-05-2019 
 
 
-|   Constituency   |        Candidate         | Votes |
-|:----------------:|:------------------------:|------:|
-|      Hassan      |     H M CHANDREGOWDA     |**768**|
-|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**763**|
-|      Haveri      |       ISHWAR PATIL       |**586**|
-|Chamrajanagar (SC)|      HANUR NAGARAJU      |**482**|
-|Bangalore Central |   Mellegatti Shridevi    |**387**|
-| Bangalore South  |AHORATRA NATESHA POLEPALLI|**281**|
-| Bangalore North  |       Santhosh M.        |**272**|
-|     Koppald      |   BANDIMATH SHARANAYYA   |**177**|
-| Chitradurga (SC) |       DEVENDRAPPA        |**173**|
-|  Chikkballapur   |        Muniraju.G        |**134**|
-|      Tumkur      |    CHAYA RAJASHANKAR     |**111**|
-|  Uttara Kannada  |       SUNIL PAWAR        |**110**|
-|     Shimoga      |       VENKATESH.R        | **87**|
-|      Bidar       |      AMBRESH KENCHA      | **77**|
-| Dakshina Kannada |   VIJAY SHREENIVAS .C    | **63**|
-|      Mandya      |    DIVAKAR.C.P.GOWDA     | **61**|
-|    Davanagere    |       GANESHA B A        | **49**|
-|  Gulbarga (SC)   |      MAHESH LAMBANI      | **46**|
-|     Dharwad      |      Santosh Nandur      | **30**|
-| Bangalore Rural  |      MANJUNATHA. M       | **23**|
-|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |  **0**|
-|     Belgaum      | MANJUNATH H RAJAPPANAVAR |  **0**|
-|     Bagalkot     |  M Shashikumar Hlepadi   |  **0**|
-|   Raichur (ST)   |      NIRANJAN NAYAK      |  **0**|
-|Udupi Chikmagalur |      SURESH KUNDER       |  **0**|
-|      Mysore      |       ASHARANI.V.        |  **0**|
-|    Kolar (SC)    |        RAMANJI. R        |  **0**|
+|   Constituency   |        Candidate         |  Votes  |
+|:----------------:|:------------------------:|--------:|
+|      Haveri      |       ISHWAR PATIL       |**1,020**|
+|      Hassan      |     H M CHANDREGOWDA     |  **923**|
+|   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |  **763**|
+|Chamrajanagar (SC)|      HANUR NAGARAJU      |  **534**|
+| Bangalore South  |AHORATRA NATESHA POLEPALLI|  **425**|
+|Bangalore Central |   Mellegatti Shridevi    |  **417**|
+| Bangalore North  |       Santhosh M.        |  **319**|
+|     Koppald      |   BANDIMATH SHARANAYYA   |  **209**|
+|  Uttara Kannada  |       SUNIL PAWAR        |  **185**|
+| Chitradurga (SC) |       DEVENDRAPPA        |  **173**|
+|  Chikkballapur   |        Muniraju.G        |  **146**|
+|      Tumkur      |    CHAYA RAJASHANKAR     |  **139**|
+|     Shimoga      |       VENKATESH.R        |  **130**|
+| Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **129**|
+|      Bidar       |      AMBRESH KENCHA      |   **86**|
+|      Mandya      |    DIVAKAR.C.P.GOWDA     |   **85**|
+|    Davanagere    |       GANESHA B A        |   **49**|
+|  Gulbarga (SC)   |      MAHESH LAMBANI      |   **46**|
+|     Dharwad      |      Santosh Nandur      |   **33**|
+| Bangalore Rural  |      MANJUNATHA. M       |   **23**|
+|    Kolar (SC)    |        RAMANJI. R        |    **9**|
+|     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |    **0**|
+|     Belgaum      | MANJUNATH H RAJAPPANAVAR |    **0**|
+|     Bagalkot     |  M Shashikumar Hlepadi   |    **0**|
+|   Raichur (ST)   |      NIRANJAN NAYAK      |    **0**|
+|Udupi Chikmagalur |      SURESH KUNDER       |    **0**|
+|      Mysore      |       ASHARANI.V.        |    **0**|
 
 
 
