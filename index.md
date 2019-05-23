@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 5,936 
+# TOTAL VOTES - 6,199 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 09:20 | 23-05-2019 
+### Last Updated - 09:22 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -17,17 +17,17 @@
 |      Hassan      |     H M CHANDREGOWDA     |  **923**|
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |  **856**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |  **534**|
+|Bangalore Central |   Mellegatti Shridevi    |  **468**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|  **425**|
-|Bangalore Central |   Mellegatti Shridevi    |  **417**|
 | Bangalore North  |       Santhosh M.        |  **319**|
-|     Koppald      |   BANDIMATH SHARANAYYA   |  **209**|
+|     Koppald      |   BANDIMATH SHARANAYYA   |  **279**|
+|     Shimoga      |       VENKATESH.R        |  **243**|
 |  Uttara Kannada  |       SUNIL PAWAR        |  **185**|
 | Chitradurga (SC) |       DEVENDRAPPA        |  **173**|
 |  Chikkballapur   |        Muniraju.G        |  **146**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |  **139**|
-|     Shimoga      |       VENKATESH.R        |  **130**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **129**|
-|      Bidar       |      AMBRESH KENCHA      |   **86**|
+|      Bidar       |      AMBRESH KENCHA      |  **115**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |   **85**|
 |    Davanagere    |       GANESHA B A        |   **49**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |   **46**|
