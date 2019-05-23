@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 9,121 
+# TOTAL VOTES - 9,177 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -28,12 +28,12 @@
 |      Tumkur      |    CHAYA RAJASHANKAR     |  **269**|
 |      Bidar       |      AMBRESH KENCHA      |  **154**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **149**|
+| Bangalore Rural  |      MANJUNATHA. M       |  **117**|
 |    Kolar (SC)    |        RAMANJI. R        |   **91**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |   **85**|
 |      Mysore      |       ASHARANI.V.        |   **76**|
 |    Davanagere    |       GANESHA B A        |   **75**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |   **69**|
-| Bangalore Rural  |      MANJUNATHA. M       |   **61**|
 |     Dharwad      |      Santosh Nandur      |   **33**|
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **15**|
 |     Chikkodi     |  PRAVEENKUMAR BALIGATTI  |    **0**|
@@ -43,13 +43,13 @@
 
 
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-        gtag('config', 'UA-138371535-2');
-        </script>
+gtag('config', 'UA-138371535-2');
+</script>
         
