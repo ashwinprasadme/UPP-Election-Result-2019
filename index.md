@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 14,565 
+# TOTAL VOTES - 14,839 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -13,8 +13,8 @@
 
 |   Constituency   |        Candidate         |  Votes  |
 |:----------------:|:------------------------:|--------:|
+|      Hassan      |     H M CHANDREGOWDA     |**2,010**|
 |   Bijapur (SC)   | GURUBASAVA. P . RABAKAVI |**1,985**|
-|      Hassan      |     H M CHANDREGOWDA     |**1,770**|
 |      Haveri      |       ISHWAR PATIL       |**1,377**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |**1,216**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|  **876**|
@@ -27,7 +27,7 @@
 |     Shimoga      |       VENKATESH.R        |  **500**|
 |  Uttara Kannada  |       SUNIL PAWAR        |  **451**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |  **395**|
-|   Raichur (ST)   |      NIRANJAN NAYAK      |  **297**|
+|   Raichur (ST)   |      NIRANJAN NAYAK      |  **331**|
 |      Mysore      |       ASHARANI.V.        |  **262**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **241**|
 |      Bidar       |      AMBRESH KENCHA      |  **236**|
@@ -43,13 +43,13 @@
 
 
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-        gtag('config', 'UA-138371535-2');
-        </script>
+gtag('config', 'UA-138371535-2');
+</script>
         
