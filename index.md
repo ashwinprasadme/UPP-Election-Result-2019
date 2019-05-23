@@ -1,14 +1,14 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 21,156 
+# TOTAL VOTES - 22,007 
 ## (Collected from 27/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 10:16 | 23-05-2019 
+### Last Updated - 10:17 | 23-05-2019 
 
 
 |   Constituency   |        Candidate         |  Votes  |
@@ -17,22 +17,22 @@
 |      Hassan      |     H M CHANDREGOWDA     |**2,411**|
 |      Haveri      |       ISHWAR PATIL       |**1,846**|
 |Chamrajanagar (SC)|      HANUR NAGARAJU      |**1,583**|
-| Bangalore Rural  |      MANJUNATHA. M       |**1,440**|
-| Bangalore South  |AHORATRA NATESHA POLEPALLI|**1,218**|
+| Bangalore Rural  |      MANJUNATHA. M       |**1,562**|
+| Bangalore North  |       Santhosh M.        |**1,342**|
+| Bangalore South  |AHORATRA NATESHA POLEPALLI|**1,298**|
 |Bangalore Central |   Mellegatti Shridevi    |**1,195**|
-| Bangalore North  |       Santhosh M.        |  **973**|
+|     Shimoga      |       VENKATESH.R        |**1,081**|
 |  Chikkballapur   |        Muniraju.G        |  **923**|
-|     Shimoga      |       VENKATESH.R        |  **917**|
 | Chitradurga (SC) |       DEVENDRAPPA        |  **790**|
 |  Uttara Kannada  |       SUNIL PAWAR        |  **697**|
 |     Koppald      |   BANDIMATH SHARANAYYA   |  **684**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |  **620**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |  **542**|
-|    Kolar (SC)    |        RAMANJI. R        |  **423**|
+|    Kolar (SC)    |        RAMANJI. R        |  **479**|
 |      Mysore      |       ASHARANI.V.        |  **418**|
-|      Bidar       |      AMBRESH KENCHA      |  **300**|
+| Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **332**|
+|      Bidar       |      AMBRESH KENCHA      |  **310**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **283**|
-| Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **282**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **253**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **205**|
 |    Davanagere    |       GANESHA B A        |  **149**|
@@ -42,14 +42,4 @@
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **23**|
 
 
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-
-gtag('config', 'UA-138371535-2');
-</script>
-        
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
