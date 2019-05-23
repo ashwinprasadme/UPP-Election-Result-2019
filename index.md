@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 16,990 
+# TOTAL VOTES - 17,121 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -20,7 +20,7 @@
 |Bangalore Central |   Mellegatti Shridevi    |**1,123**|
 | Bangalore South  |AHORATRA NATESHA POLEPALLI|**1,100**|
 | Bangalore Rural  |      MANJUNATHA. M       |  **959**|
-| Bangalore North  |       Santhosh M.        |  **808**|
+| Bangalore North  |       Santhosh M.        |  **881**|
 |     Shimoga      |       VENKATESH.R        |  **711**|
 |  Chikkballapur   |        Muniraju.G        |  **708**|
 | Chitradurga (SC) |       DEVENDRAPPA        |  **624**|
@@ -28,11 +28,11 @@
 |  Uttara Kannada  |       SUNIL PAWAR        |  **586**|
 |      Tumkur      |    CHAYA RAJASHANKAR     |  **494**|
 |   Raichur (ST)   |      NIRANJAN NAYAK      |  **413**|
+|    Kolar (SC)    |        RAMANJI. R        |  **279**|
 |      Mysore      |       ASHARANI.V.        |  **262**|
 |      Bidar       |      AMBRESH KENCHA      |  **247**|
 |Udupi Chikmagalur |      SURESH KUNDER       |  **244**|
 | Dakshina Kannada |   VIJAY SHREENIVAS .C    |  **241**|
-|    Kolar (SC)    |        RAMANJI. R        |  **221**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **210**|
 |    Davanagere    |       GANESHA B A        |  **130**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **129**|
@@ -42,4 +42,14 @@
 |     Belgaum      | MANJUNATH H RAJAPPANAVAR |   **15**|
 
 
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-138371535-2');</script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-138371535-2');
+        </script>
+        
