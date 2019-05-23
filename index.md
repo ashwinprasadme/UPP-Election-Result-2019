@@ -1,7 +1,7 @@
 # Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 15,893 
+# TOTAL VOTES - 15,908 
 ## (Collected from 27/28 Constituencies) 
 
 
@@ -33,7 +33,7 @@
 |      Bidar       |      AMBRESH KENCHA      |  **236**|
 |      Mandya      |    DIVAKAR.C.P.GOWDA     |  **200**|
 |    Kolar (SC)    |        RAMANJI. R        |  **188**|
-|Udupi Chikmagalur |      SURESH KUNDER       |  **143**|
+|Udupi Chikmagalur |      SURESH KUNDER       |  **158**|
 |    Davanagere    |       GANESHA B A        |  **130**|
 |  Gulbarga (SC)   |      MAHESH LAMBANI      |  **129**|
 |     Dharwad      |      Santosh Nandur      |   **78**|
@@ -43,13 +43,13 @@
 
 
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-        gtag('config', 'UA-138371535-2');
-        </script>
+gtag('config', 'UA-138371535-2');
+</script>
         
