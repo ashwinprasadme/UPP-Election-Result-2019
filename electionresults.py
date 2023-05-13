@@ -12,7 +12,7 @@ from datetime import datetime
 import pytz
 tz = pytz.timezone('Asia/Kolkata')
 
-repo_dir = "/home/ashwin/Desktop/UPP-Election-Result-2019"
+repo_dir = "/mnt/Projects/Other/UPP-Election-Result-2019"
 file_name = os.path.join(repo_dir, 'index.md')
 
 # print(writer.dumps())
@@ -33,6 +33,7 @@ def getResultConstituency(constituency, party, state="S10", candidate=None):
     # https://results.eci.gov.in/pc/en/constituencywise/Constituencywise{0}{1}.htm?ac={1}
     # resultUrl = "https://results.eci.gov.in/Constituencywise{0}{1}.htm?ac={1}"
     resultUrl = "https://results.eci.gov.in/pc/en/constituencywise/Constituencywise{0}{1}.htm?ac={1}"
+    resultUrl = "https://results.eci.gov.in/ResultAcGenMay2023/Constituencywise{0}{1}.htm?ac={1}"
     # print(resultUrl.format(state, constituency))
     response = requests.get(resultUrl.format(state, constituency))
 
@@ -40,7 +41,7 @@ def getResultConstituency(constituency, party, state="S10", candidate=None):
     # print(response)
     soup = BeautifulSoup(response.text, "html.parser")
     # votes_table = soup.find('table', {"style": "margin: auto; width: 100%; font-family: Verdana; border: solid 1px black;font-weight:lighter"})
-    votes_table = soup.find('table', {"class":"table-party"})
+    votes_table = soup.find('table', {"style":"margin: auto; width: 100%; font-family: Verdana; border: solid 1px black;font-weight:lighter"})
     votes_table_tr = votes_table.find_all('tr')
 
     _resultDict = None
@@ -89,6 +90,7 @@ while True:
             _totalVotes =  _totalVotes + _result["votes"]
             _resultList.append([_constituency["constituencyName"], _result["candidate"], _result["votes"]])
             print("Constituency: {0} \t\t\t Candidate: {1} \t\t\t Votes: {2} \n".format(_constituency["constituencyName"], _result["candidate"], _result["votes"]))
+        time.sleep(0.1)
             
 
     print("\n\n TOTAL VOTES - {0:,} \n Collected from {1}/{2} Constituencies".format(_totalVotes, _totalConstituencyCollected, len(_constituencies)))
@@ -102,7 +104,7 @@ while True:
     writer.styles = [
         Style(align="center"),
         Style(align="center"),
-        Style(font_weight="bold", align="right", thousand_separator=","),
+        Style(align="right", thousand_separator=","),
     ]
 
     writer.write_table()
