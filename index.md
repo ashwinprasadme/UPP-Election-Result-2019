@@ -1,28 +1,27 @@
-# BYE Election Result UPP 2019
+# Election Result UPP 2019
 
 ---
-# TOTAL VOTES - 7,140 
-## (Collected from 10/10 Constituencies) 
+# TOTAL VOTES - 933 
+## (Collected from 9/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 18:59 | 09-12-2019 
+### Last Updated - 10:42 | 13-05-2023 
 
 
-| Constituency |     Candidate      |  Votes  |
-|:------------:|:------------------:|--------:|
-|Yeshvanthapura|   MANJUNATHA.  M   |**1,915**|
-|   K.R.Pura   |     SANTHOSH.M     |**1,620**|
-|    Athani    |DR.NAGANATH V YADGIR|  **878**|
-|Chikkaballapur|   PHANIRAJ . S.V   |  **619**|
-|  Hirekerur   |    DEVENDRAPPA     |  **597**|
-| Vijayanagara |   MAHESH LAMBANI   |  **430**|
-|  Ranibennur  |     I H PATIL      |  **349**|
-|   Yellapur   |    SUNIL PAWAR     |  **281**|
-|    Kagwad    |   A. SACHINKUMAR   |  **272**|
-|    Gokak     |   SANTOSH NANDUR   |  **179**|
+|   Constituency   |            Candidate            |[1m Votes [0m|
+|:----------------:|:-------------------------------:|------:|
+|      Hassan      |         RUDRAPPA MALAGI         |[1m**230**[0m|
+|Udupi Chikmagalur |PRAVEEN. MAHABALESHWAR. DEGALOLLI|[1m**175**[0m|
+|   Bijapur (SC)   |    HANAMANT  BAHUSAB  PATIL     |[1m**122**[0m|
+|Chamrajanagar (SC)|       NARASIMHA M RAYKAR        |[1m**103**[0m|
+|   Bellary (ST)   |       SURESH PATTANSHETTI       |[1m **70**[0m|
+|     Dharwad      |      Mallappa C. Chougala       |[1m **70**[0m|
+|      Mysore      |     ANTHOSH SHANKAR SAVVASE     |[1m **64**[0m|
+|    Kolar (SC)    |   AWATI SHANKREPPA KASHINATH    |[1m **59**[0m|
+|     Bagalkot     |    BHARATESH BUJABALI KUDARI    |[1m **40**[0m|
 
 
 <script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-138371535-2'); </script>
