@@ -1,14 +1,14 @@
 # Election Result UPP 2024
 
 ---
-# TOTAL VOTES - 36,938 
+# TOTAL VOTES - 36,947 
 ## (Collected from 20/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 14:49 | 04-06-2024 
+### Last Updated - 14:52 | 04-06-2024 
 
 
 |  Constituency   |             Candidate              |Votes|
@@ -22,7 +22,7 @@
 |     Mysore      |    PRAJAKEEYA LEELA SHIVAKUMAR     |1,674|
 | Uttara Kannada  |         PRAJAAKEEYA SUNIL          |1,520|
 |Bangalore Central|         SURESH BABU. M. C          |1,498|
-|     Shimoga     |          ARUNA KANAHALLI           |1,436|
+|     Shimoga     |          ARUNA KANAHALLI           |1,445|
 |   Kolar (SC)    |      DEVARAJA A ALUSURUDINNE       |1,341|
 |  Gulbarga (SC)  |            NAGENDRA RAO            |1,160|
 |     Mandya      |     LOKESHA. S (AARYA LOKESH)      |1,151|
