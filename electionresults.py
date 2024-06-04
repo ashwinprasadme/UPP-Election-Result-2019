@@ -12,7 +12,7 @@ from datetime import datetime
 import pytz
 tz = pytz.timezone('Asia/Kolkata')
 
-repo_dir = "/mnt/Projects/Other/UPP-Election-Result-2019"
+repo_dir = "/mnt/Projects/Other/UPP-Election-Result-2019/"
 file_name = os.path.join(repo_dir, 'index.md')
 
 # print(writer.dumps())
@@ -32,8 +32,9 @@ def getResultConstituency(constituency, party, state="S10", candidate=None):
     # NEW - https://results.eci.gov.in/ConstituencywiseS1610.htm?ac=10
     # https://results.eci.gov.in/pc/en/constituencywise/Constituencywise{0}{1}.htm?ac={1}
     # resultUrl = "https://results.eci.gov.in/Constituencywise{0}{1}.htm?ac={1}"
-    resultUrl = "https://results.eci.gov.in/pc/en/constituencywise/Constituencywise{0}{1}.htm?ac={1}"
-    resultUrl = "https://results.eci.gov.in/ResultAcGenMay2023/Constituencywise{0}{1}.htm?ac={1}"
+    # resultUrl = "https://results.eci.gov.in/pc/en/constituencywise/Constituencywise{0}{1}.htm?ac={1}"
+    resultUrl = "https://results.eci.gov.in/PcResultGenJune2024/Constituencywise{0}{1}.htm"
+    
     # print(resultUrl.format(state, constituency))
     response = requests.get(resultUrl.format(state, constituency))
 
@@ -41,8 +42,20 @@ def getResultConstituency(constituency, party, state="S10", candidate=None):
     # print(response)
     soup = BeautifulSoup(response.text, "html.parser")
     # votes_table = soup.find('table', {"style": "margin: auto; width: 100%; font-family: Verdana; border: solid 1px black;font-weight:lighter"})
-    votes_table = soup.find('table', {"style":"margin: auto; width: 100%; font-family: Verdana; border: solid 1px black;font-weight:lighter"})
+    votes_table = soup.find('table', {"class":"table-bordered"})
     votes_table_tr = votes_table.find_all('tr')
+
+
+    # Extract the number of votes for Uttama Prajaakeeya Party
+    # uttama_votes = 0
+    # for row in rows:
+    #     cols = row.find_all('td')
+    #     if len(cols) > 0:
+    #         party = cols[2].text.strip()
+    #         if party == 'Uttama Prajaakeeya Party':
+    #             uttama_votes = int(cols[5].text.strip())
+    #             break
+
 
     _resultDict = None
 
