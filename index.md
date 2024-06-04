@@ -1,35 +1,35 @@
 # Election Result UPP 2024
 
 ---
-# TOTAL VOTES - 37,374 
+# TOTAL VOTES - 39,600 
 ## (Collected from 20/28 Constituencies) 
 
 
 ---
 # Results by Constituency 
 
-### Last Updated - 15:01 | 04-06-2024 
+### Last Updated - 16:07 | 04-06-2024 
 
 
 |  Constituency   |             Candidate              |Votes|
 |:---------------:|:----------------------------------:|----:|
-| Bangalore Rural |             ABHISHEK K             |6,081|
-|    Bagalkot     |          ANTHOSH SAVVASE           |4,688|
-|     Hassan      |            PRATHAPA K.A            |3,216|
-| Bangalore North |             SANTHOSH M             |2,783|
+| Bangalore Rural |             ABHISHEK K             |6,191|
+|    Bagalkot     |          ANTHOSH SAVVASE           |4,909|
+| Bangalore North |             SANTHOSH M             |3,387|
+|     Hassan      |            PRATHAPA K.A            |3,213|
 |Chitradurga (SC) |          RAMESH NAIK .T.           |2,206|
-|  Chikkballapur  |         VENKATESHMURTHY.V          |1,976|
-|     Mysore      |    PRAJAKEEYA LEELA SHIVAKUMAR     |1,688|
+|  Chikkballapur  |         VENKATESHMURTHY.V          |2,015|
+|     Mysore      |    PRAJAKEEYA LEELA SHIVAKUMAR     |1,749|
+|Bangalore Central|         SURESH BABU. M. C          |1,660|
 | Uttara Kannada  |         PRAJAAKEEYA SUNIL          |1,523|
-|Bangalore Central|         SURESH BABU. M. C          |1,508|
-|     Shimoga     |          ARUNA KANAHALLI           |1,445|
-|   Kolar (SC)    |      DEVARAJA A ALUSURUDINNE       |1,342|
-|  Gulbarga (SC)  |            NAGENDRA RAO            |1,180|
-|     Mandya      |     LOKESHA. S (AARYA LOKESH)      |1,151|
-|     Haveri      |PRAJAKEEYA SACHINKUMAR KARJEKANNAVAR|1,042|
-| Bangalore South |           BALAKRISHNA.M.           |1,019|
-|Udupi Chikmagalur|             SACHIN B.K             |1,005|
-|   Davanagere    |           ESHWARA SHENGA           |  991|
-|     Belgaum     |PRAJAAKEEYA MALLAPPA CHOGALA (PREM) |  893|
-|Dakshina Kannada |        PRAJAAKEEYA MANOHARA        |  855|
-|     Dharwad     |    BUGADI BASAVALINGAPPA IRAPPA    |  782|
+|     Shimoga     |          ARUNA KANAHALLI           |1,478|
+|   Kolar (SC)    |      DEVARAJA A ALUSURUDINNE       |1,354|
+|Udupi Chikmagalur|             SACHIN B.K             |1,267|
+|  Gulbarga (SC)  |            NAGENDRA RAO            |1,226|
+|   Davanagere    |           ESHWARA SHENGA           |1,221|
+|     Mandya      |     LOKESHA. S (AARYA LOKESH)      |1,163|
+|     Belgaum     |PRAJAAKEEYA MALLAPPA CHOGALA (PREM) |1,122|
+| Bangalore South |           BALAKRISHNA.M.           |1,077|
+|     Haveri      |PRAJAKEEYA SACHINKUMAR KARJEKANNAVAR|1,072|
+|Dakshina Kannada |        PRAJAAKEEYA MANOHARA        |  971|
+|     Dharwad     |    BUGADI BASAVALINGAPPA IRAPPA    |  796|
