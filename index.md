@@ -8,7 +8,7 @@
 ---
 # Results by Constituency 
 
-### Last Updated - 14:36 | 04-06-2024 
+### Last Updated - 14:37 | 04-06-2024 
 
 
 |  Constituency   |             Candidate              |Votes|
@@ -33,6 +33,3 @@
 |     Belgaum     |PRAJAAKEEYA MALLAPPA CHOGALA (PREM) |  861|
 |Dakshina Kannada |        PRAJAAKEEYA MANOHARA        |  834|
 |     Dharwad     |    BUGADI BASAVALINGAPPA IRAPPA    |  773|
-
-
-<script async src='https://www.googletagmanager.com/gtag/js?id=UA-138371535-2'></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-138371535-2'); </script>
